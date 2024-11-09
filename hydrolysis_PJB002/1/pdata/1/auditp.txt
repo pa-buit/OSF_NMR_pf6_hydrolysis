@@ -1,0 +1,41 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 6
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= ells
+$$ /400SL/data/ells/nmr/20210330_prist_ecpc/7/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2021-03-30 14:47:00.178 -0400>,<ells>,<nmr50pri.chem.columbia.edu>,<go4>,<TopSpin 3.5.6>,
+      <acquisition in progress>)
+(   2,<2021-03-30 14:48:49.450 -0400>,<ells>,<nmr50pri.chem.columbia.edu>,<proc1d>,<TopSpin 3.5.6>,
+      <Start of raw data processing
+       efp LB = 0.3 FT_mod = 6 PKNL = 1 PHC0 = 118.2292 PHC1 = -54.20303 SI = 64K 
+       data hash MD5: 64K
+       7C 59 7F E3 7E 6B BA 78 0D B4 C7 65 4C 65 56 A1>)
+(   3,<2021-03-30 14:49:27.349 -0400>,<ells>,<nmr50pri.chem.columbia.edu>,<proc1d>,<TopSpin 3.5.6>,
+      <pk fgphup PHC0 = -173.8 PHC1 = 0 
+       data hash MD5: 64K
+       FC 9A 67 3C 10 4F D0 B6 7F E8 44 69 E3 85 97 78>)
+(   4,<2021-09-03 15:06:13.841 -0400>,<ells>,<nmr50pri.chem.columbia.edu>,<proc1d>,<TopSpin 3.5.6>,
+      <pk fgphup PHC0 = -25.47843 PHC1 = 42.4 
+       data hash MD5: 64K
+       C0 27 75 3B 55 27 42 E2 2B D1 99 E2 50 ED D7 5B>)
+$$ C:/Users/buitr/Marbella Team Dropbox/Lauren Marbella/Undergraduate Shared/Pablo Buitrago/DATA/NMR/hydrolysis_PJB002/1/pdata/1/auditp.txt
+(   5,<2024-10-30 14:23:35.111 -0400>,<buitr>,<Pablo-Lenovo>,<audit>,<TopSpin 4.1.4>,
+      <user comment:
+       TITLE=1H
+       1M KPF6 / ECPC / 0% H2OTITLE_END
+       data hash MD5: 64K
+       C0 27 75 3B 55 27 42 E2 2B D1 99 E2 50 ED D7 5B>)
+$$ /Users/laurenmarbella/Marbella Team Dropbox/Lauren Marbella/Undergraduate Shared/Pablo Buitrago/DATA/NMR/hydrolysis_PJB002/1/pdata/1/auditp.txt
+(   6,<2024-10-30T11:28:15.434-0700>,<laurenmarbella>,<Laurens-MacBook-Pro-69.local>,<dataserver>,<TopSpin 4.3.0>,
+      <Spectrum calibrated, SF was set. Old value: 400.130003 New value: 400.129982. Peak list modified: Yes
+       data hash MD5: 64K
+       C0 27 75 3B 55 27 42 E2 2B D1 99 E2 50 ED D7 5B>)
+(   7,<2024-10-30T11:28:15.437-0700>,<laurenmarbella>,<Laurens-MacBook-Pro-69.local>,<dataserver>,<TopSpin 4.3.0>,
+      <Spectrum calibrated, OFFSET was set. Old value: 16.180220 New value: 16.232567. Peak list modified: Yes
+       data hash MD5: 64K
+       C0 27 75 3B 55 27 42 E2 2B D1 99 E2 50 ED D7 5B>)
+##END=
+
+$$ hash MD5
+$$ 2D 14 33 BD D9 D8 40 51 86 06 E8 B4 56 1A 39 E6

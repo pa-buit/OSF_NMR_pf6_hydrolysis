@@ -1,0 +1,18 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 6
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= buitrago
+$$ /400SL/data/buitrago/nmr/20241013_hydrolysis_reviews/22/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-10-19 15:25:18.336 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<go4>,<TopSpin 3.5.6>,
+      <created by zg
+	started at 2024-10-19 15:22:25.869 -0400,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       9D 3A BF 97 70 07 42 E6 47 13 FA 6D F6 04 5E 2E
+       data hash MD5: 64K
+       72 65 85 8D C0 2E BF DD 55 0D 32 33 35 B6 B1 4D>)
+##END=
+
+$$ hash MD5
+$$ E4 51 50 78 42 2F 99 90 72 FB 45 C5 C9 15 F6 DF

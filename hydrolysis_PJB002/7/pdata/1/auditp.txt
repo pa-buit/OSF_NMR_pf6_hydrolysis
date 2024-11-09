@@ -1,0 +1,60 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 6
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= buitrago
+$$ /400SL/data/buitrago/nmr/20230526_hydrolysis/7/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2023-06-13 12:37:25.757 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<go4>,<TopSpin 3.5.6>,
+      <created by zg
+	started at 2023-06-13 12:34:33.416 -0400,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       C9 55 EE 94 C8 46 F4 CF EC 27 EF D9 14 8E 1C 16
+       data hash MD5: 64K
+       C7 B2 D1 28 7D 66 1F 34 BD 06 8E 51 79 7E 6E B3>)
+(   2,<2023-06-13 12:37:36.582 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<proc1d>,<TopSpin 3.5.6>,
+      <Start of raw data processing
+       efp LB = 0.1 FT_mod = 6 PKNL = 1 PHC0 = 110.6663 PHC1 = -19.94456 SI = 64K 
+       data hash MD5: 64K
+       7D 54 9D 45 9E A5 2C A3 75 95 51 C6 FB 06 BD FD>)
+(   3,<2023-06-13 12:37:38.657 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<proc1d>,<TopSpin 3.5.6>,
+      <apk 
+       data hash MD5: 64K
+       8B 89 4E 61 66 93 BD 9C B0 C4 78 0F 7C AE 23 D7>)
+(   4,<2023-06-20 12:39:24.511 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<audit>,<TopSpin 3.5.6>,
+      <user comment:
+       TITLE=PJB002
+       1H
+       1M KPF6 / ECPC / 1.5% H20
+       t0 = June 13, 12:20TITLE_END
+       data hash MD5: 64K
+       8B 89 4E 61 66 93 BD 9C B0 C4 78 0F 7C AE 23 D7>)
+(   5,<2023-06-20 12:39:25.005 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<audit>,<TopSpin 3.5.6>,
+      <user comment:
+       TITLE=PJB002
+       1H
+       1M KPF6 / ECPC / 1.5% H20
+       t0 = June 13, 12:20TITLE_END
+       data hash MD5: 64K
+       8B 89 4E 61 66 93 BD 9C B0 C4 78 0F 7C AE 23 D7>)
+(   6,<2023-06-20 16:34:34.009 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<audit>,<TopSpin 3.5.6>,
+      <user comment:
+       TITLE=PJB002
+       1H
+       1M KPF6 / ECPC / 1.5% H2O
+       t0 = June 13, 12:20TITLE_END
+       data hash MD5: 64K
+       8B 89 4E 61 66 93 BD 9C B0 C4 78 0F 7C AE 23 D7>)
+$$ /Users/laurenmarbella/Marbella Team Dropbox/Lauren Marbella/Undergraduate Shared/Pablo Buitrago/DATA/NMR/hydrolysis_PJB002/7/pdata/1/auditp.txt
+(   7,<2024-10-30T11:27:58.291-0700>,<laurenmarbella>,<Laurens-MacBook-Pro-69.local>,<dataserver>,<TopSpin 4.3.0>,
+      <Spectrum calibrated, SF was set. Old value: 400.130003 New value: 400.129976. Peak list modified: Yes
+       data hash MD5: 64K
+       8B 89 4E 61 66 93 BD 9C B0 C4 78 0F 7C AE 23 D7>)
+(   8,<2024-10-30T11:27:58.294-0700>,<laurenmarbella>,<Laurens-MacBook-Pro-69.local>,<dataserver>,<TopSpin 4.3.0>,
+      <Spectrum calibrated, OFFSET was set. Old value: 16.180220 New value: 16.247491. Peak list modified: Yes
+       data hash MD5: 64K
+       8B 89 4E 61 66 93 BD 9C B0 C4 78 0F 7C AE 23 D7>)
+##END=
+
+$$ hash MD5
+$$ 65 3A 09 B3 43 18 F4 B8 0F 46 F2 8F C6 57 7A CD

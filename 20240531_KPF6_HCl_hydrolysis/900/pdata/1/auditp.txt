@@ -1,0 +1,21 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 6
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= ells
+$$ /400SL/data/ells/nmr/20240531_KPF6_HCl_hydrolysis/900/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-05-31 15:26:13.483 -0400>,<ells>,<nmr50pri.chem.columbia.edu>,<go4>,<TopSpin 3.5.6>,
+      <acquisition in progress>)
+(   2,<2024-05-31 15:28:15.220 -0400>,<ells>,<nmr50pri.chem.columbia.edu>,<proc1d>,<TopSpin 3.5.6>,
+      <Start of raw data processing
+       efp LB = 5 FT_mod = 6 PKNL = 1 PHC0 = 173.0471 PHC1 = -364.246 SI = 64K 
+       data hash MD5: 64K
+       5E B6 91 E7 E4 A4 15 C7 97 82 68 25 D9 AB C6 1B>)
+(   3,<2024-05-31 15:29:37.552 -0400>,<ells>,<nmr50pri.chem.columbia.edu>,<dirdata>,<TopSpin 3.5.6>,
+      <wrpa from 1 11 "20240531_KPF6_HCl_hydrolysis" "/400SL/data/ells/nmr"
+       data hash MD5: 64K
+       5E B6 91 E7 E4 A4 15 C7 97 82 68 25 D9 AB C6 1B>)
+##END=
+
+$$ hash MD5
+$$ E7 B4 61 52 CE EC 22 34 E2 AF 16 B0 2A 0B 8A F7

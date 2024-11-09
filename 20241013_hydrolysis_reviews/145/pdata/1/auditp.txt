@@ -1,0 +1,38 @@
+##TITLE= Audit trail, TopSpin 3.7.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= buitrago
+$$ /400SL/data/buitrago/nmr/20241013_hydrolysis_reviews/145/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-11-05 12:22:47.910 -0500>,<buitrago>,<nmr50pri.chem.columbia.edu>,<go4>,<TopSpin 3.7.0>,
+      <created by zg on data set with UUID 'e737a1e6-9b99-11ef-9a51-40a6b7ca9ad0'
+       started at 2024-11-05 12:17:58.355 -0500,
+       POWCHK enabled, PULCHK disabled,
+       completed at 2024-11-05 12:22:47.909 -0500
+
+       configuration hash MD5:
+       A4 5C EB D7 88 1C 68 52 DD 88 41 41 45 1E C6 E7
+       data hash MD5: 1K * 256
+       D1 41 91 93 A9 C5 29 86 7C 9A 54 FB 41 E0 04 7C>)
+(   2,<2024-11-05 12:22:59.569 -0500>,<buitrago>,<nmr50pri.chem.columbia.edu>,<proc2d>,<TopSpin 3.7.0>,
+      <Start of raw data processing
+       xfb F2: SI = 1K WDW = 3 SSB = 0 FT_mod = 6 PKNL = 1 F1: SI = 1K ME_mod = 2 NCOEF = 32 WDW = 3 SSB = 0 FT_mod = 6 FCOR = 0.5 PH_mod = 2
+       data hash MD5: 1K * 1K
+       95 01 0F 49 9D 3B 43 89 D8 A2 F2 C7 05 99 52 3E>)
+$$ C:/Users/buitr/Marbella Team Dropbox/Lauren Marbella/Undergraduate Shared/Pablo Buitrago/DATA/NMR/20241013_hydrolysis_reviews/145/pdata/1/auditp.txt
+(   3,<2024-11-08 00:16:25.146 -0500>,<buitr>,<Pablo-Lenovo>,<proc2d>,<TopSpin 4.1.4>,
+      <sub1d2 999 145 "20241013_hydrolysis_reviews" "C:/Users/buitr/Marbella Team Dropbox/Lauren Marbella/Undergraduate Shared/Pablo Buitrago/DATA/NMR"
+       data hash MD5: 1K * 1K
+       EB 3A 3C E5 36 41 42 EC B7 BE 54 18 F6 A1 E8 14>)
+(   4,<2024-11-08 00:16:56.513 -0500>,<buitr>,<Pablo-Lenovo>,<proc2d>,<TopSpin 4.1.4>,
+      <sub1d1 998 145 "20241013_hydrolysis_reviews" "C:/Users/buitr/Marbella Team Dropbox/Lauren Marbella/Undergraduate Shared/Pablo Buitrago/DATA/NMR"
+       data hash MD5: 1K * 1K
+       53 B3 D3 A8 C1 6A 8A BE 53 8D 65 2A 69 56 BD A4>)
+(   5,<2024-11-08 00:17:20.865 -0500>,<buitr>,<Pablo-Lenovo>,<proc2d>,<TopSpin 4.1.4>,
+      <sub1d2 999 145 "20241013_hydrolysis_reviews" "C:/Users/buitr/Marbella Team Dropbox/Lauren Marbella/Undergraduate Shared/Pablo Buitrago/DATA/NMR"
+       data hash MD5: 1K * 1K
+       BF AC 02 B2 C3 7E 1E 9A 2C 59 9D C5 E8 28 DA EC>)
+##END=
+
+$$ hash MD5
+$$ 29 5D 17 AF 6D B6 E1 C2 49 72 A7 AC 18 4D 04 4C

@@ -1,0 +1,33 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 6
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= arbeli
+$$ /400SL/data/arbeli/nmr/23062023_AS_HF_standard/35/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2023-07-06 16:08:50.095 -0400>,<arbeli>,<nmr50pri.chem.columbia.edu>,<go4>,<TopSpin 3.5.6>,
+      <created by zg
+	started at 2023-07-06 16:07:27.389 -0400,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       C9 55 EE 94 C8 46 F4 CF EC 27 EF D9 14 8E 1C 16
+       data hash MD5: 516K
+       5C F2 F9 0E EB 37 07 31 FB D8 8D 9B F9 BB 7C 43>)
+(   2,<2023-07-06 16:09:32.003 -0400>,<arbeli>,<nmr50pri.chem.columbia.edu>,<proc1d>,<TopSpin 3.5.6>,
+      <Start of raw data processing
+       efp LB = 3 FT_mod = 6 PKNL = 1 PHC0 = -16.30141 PHC1 = -751.6 SI = 64K 
+       data hash MD5: 64K
+       65 C8 FC C0 D3 75 10 01 84 FD 81 B1 9C E1 A3 A2>)
+(   3,<2023-07-06 17:49:27.702 -0400>,<arbeli>,<nmr50pri.chem.columbia.edu>,<audit>,<TopSpin 3.5.6>,
+      <user comment:
+       TITLE=19F
+       07-06-2023
+       HF in LP30 new sample (from the same batch) with DMSO - j Young no locking or shiming
+       + 0.3 mg immersion for 1 h
+       o1p=-158 ppm
+       comp to 28TITLE_END
+       data hash MD5: 64K
+       65 C8 FC C0 D3 75 10 01 84 FD 81 B1 9C E1 A3 A2>)
+##END=
+
+$$ hash MD5
+$$ 37 14 E5 E4 96 B5 61 2E 90 08 78 32 AE 24 11 2D

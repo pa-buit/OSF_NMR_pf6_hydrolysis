@@ -1,0 +1,17 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 6
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= ells
+$$ /400SL/data/ells/nmr/20240724_NaPF6_HCl_hydrolysis/6/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-07-24 18:49:36.414 -0400>,<ells>,<nmr50pri.chem.columbia.edu>,<go4>,<TopSpin 3.5.6>,
+      <acquisition in progress>)
+(   2,<2024-07-24 18:52:54.714 -0400>,<ells>,<nmr50pri.chem.columbia.edu>,<proc1d>,<TopSpin 3.5.6>,
+      <Start of raw data processing
+       efp LB = 5 FT_mod = 6 PKNL = 1 PHC0 = 176.6471 PHC1 = -364.246 SI = 64K 
+       data hash MD5: 64K
+       40 D6 58 91 D5 F5 D4 5F 22 05 98 F3 1D F8 5D C5>)
+##END=
+
+$$ hash MD5
+$$ 90 2D 49 3A 73 9F 7F F3 34 2D A3 73 C7 C6 3A 41

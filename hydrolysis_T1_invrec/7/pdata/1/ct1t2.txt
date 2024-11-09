@@ -1,0 +1,36 @@
+SIMFIT RESULTS
+==============
+
+Dataset : /Users/laurenmarbella/Marbella Team Dropbox/Lauren Marbella/Undergraduate Shared/Pablo Buitrago/DATA/NMR/hydrolysis_T1_invrec/7/pdata/1/ct1t2.txt
+
+INTENSITY fit : Inversion-Recovery(T1) : I[t]=I[0](1-2*A*exp(-t/T1))
+
+11 points for Peak 1,  Peak Point = -188.319 ppm
+
+Converged after 90 iterations!
+
+Results     Comp. 1    
+
+I[0]  =    9.852e-01  
+A     =    6.505e-01  
+T1    =     168.938m  
+
+RSS   =    1.299e-03
+SD    =    1.087e-02
+
+Point       Tau          Expt          Calc       Difference
+
+    1      10.000u    -2.957e-01    -2.965e-01   -7.790e-04
+    2     100.000u    -3.065e-01    -2.958e-01    1.071e-02
+    3       1.000m    -2.938e-01    -2.890e-01    4.739e-03
+    4      10.000m    -2.115e-01    -2.229e-01   -1.145e-02
+    5     100.000m     2.851e-01     2.760e-01   -9.094e-03
+    6     500.000m     8.967e-01     9.187e-01    2.204e-02
+    7       1.000s     9.689e-01     9.817e-01    1.278e-02
+    8       5.000s     9.871e-01     9.852e-01   -1.919e-03
+    9      10.000s     9.910e-01     9.852e-01   -5.872e-03
+   10      20.000s     9.914e-01     9.852e-01   -6.279e-03
+   11      40.000s     1.000e+00     9.852e-01   -1.485e-02
+
+============================================================
+

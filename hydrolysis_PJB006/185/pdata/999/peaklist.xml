@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList modified="2024-05-22T17:02:41">
+  <PeakList1D>
+    <PeakList1DHeader creator="buitr" date="2024-05-22T17:02:41" expNo="185" name="hydrolysis_PJB006" owner="" procNo="999" source="C:/Users/buitr/Marbella Team Dropbox/Lauren Marbella/Undergraduate Shared/Pablo Buitrago/DATA/NMR">
+      <PeakPickDetails>F1=4.250831ppm, F2=4.120114ppm, MI=16.47cm, MAXI=25.05cm, PC=1.400
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="4.170126" intensity="20.0" type="0"/>
+  </PeakList1D>
+</PeakList>

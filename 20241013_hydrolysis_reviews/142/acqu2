@@ -1,0 +1,24 @@
+##TITLE= Parameter file, TopSpin 3.7.0
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= buitrago
+$$ 2024-11-05 10:59:45.118 -0500  buitrago@nmr50pri.chem.columbia.edu
+$$ /400SL/data/buitrago/nmr/20241013_hydrolysis_reviews/142/acqu2
+$$ process /opt/topspin3.7.0/prog/mod/edparproc
+##$ACQT0= 0
+##$BF1= 161.975593
+##$FnILOOP= 0
+##$FnMODE= 1
+##$NUC1= <31P>
+##$NusJSP= 0
+##$NusT2= 1
+##$NusTD= 0
+##$O1= -10528.413545
+##$ProjAngle= 0
+##$SFO1= 161.965064586455
+##$SW= 210.011550750799
+##$SW_h= 34014.5343812547
+##$TD= 512
+##END=

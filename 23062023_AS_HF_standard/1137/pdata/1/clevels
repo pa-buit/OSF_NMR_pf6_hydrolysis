@@ -1,0 +1,27 @@
+##TITLE= Parameter file, TopSpin 3.5 pl 6
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= arbeli
+$$ 2023-07-06 12:16:00.815 -0400  arbeli@nmr50pri.chem.columbia.edu
+$$ /400SL/data/arbeli/nmr/23062023_AS_HF_standard/1137/pdata/1/clevels
+$$ process /opt/topspin3.5pl6/prog/mod/edparproc
+##$LEVELS= (0..255)
+-1156748.8 -642638.2 -357021.2 -198345.1 -110191.7 -61217.6 -34009.8 -18894.3
+18894.3 34009.8 61217.6 110191.7 198345.1 357021.2 642638.2 1156748.8 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+##$LEVSIGN= 3
+##$MAXLEV= 8
+##$METHOD= 0
+##$NEGBASE= -18894.3
+##$NEGINCR= 1.8
+##$POSBASE= 18894.3
+##$POSINCR= 1.8
+##END=

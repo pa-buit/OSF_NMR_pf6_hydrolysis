@@ -1,0 +1,34 @@
+##TITLE= List of Points
+##JCAMPDX= 5.0
+##DATA TYPE= LINK
+##BLOCKS= 1	$$ is the number of fits or point lists
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= buitr
+$$ 2024-10-18 22:11:25.088 -0400  buitr@Pablo-Lenovo
+$$ C:/Users/buitr/Marbella Team Dropbox/Lauren Marbella/Undergraduate Shared/Pablo Buitrago/DATA/NMR/hydrolysis_T1_invrec/8/pdata/1/t1t2.dx
+##XUNITS= sec
+##YUNITS= a.u.
+##MINX=   1.000000e-03
+##MAXX=   1.000000e+02
+##MINY=  -1.000000e+00
+##MAXY=   1.000000e+00
+##TITLE= Peak No. 1 at -11.626 ppm, invrec, I[0] =  9.796e-01, A =  6.684e-01, T =    1.224s
+##JCAMP-DX= 5.0
+##DATA TYPE= Relaxation Data
+$$
+##$FITFKT= invrec(  9.795664e-01,   6.684285e-01,   1.224432e+00)
+$$
+##NPOINTS= 10
+##XYPOINTS= (XY..XY)
+  1.000000e-03, -3.275345e-01
+  1.000000e-02, -3.293768e-01
+  5.000000e-02, -3.114627e-01
+  1.000000e-01, -1.796377e-01
+  5.000000e-01,  1.101636e-01
+  1.000000e+00,  3.927368e-01
+  5.000000e+00,  9.637226e-01
+  1.000000e+01,  1.000000e+00
+  6.000000e+01,  9.644619e-01
+  1.000000e+02,  9.695603e-01
+##END= $$ End of List for Peak No. 1
+##END= $$ End of List of Points

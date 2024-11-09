@@ -1,0 +1,46 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 6
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= buitrago
+$$ /400SL/data/buitrago/nmr/20241017_T1_PJB006/1/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-10-17 17:08:44.627 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<go4>,<TopSpin 3.5.6>,
+      <created by zg
+	started at 2024-10-17 16:53:16.300 -0400,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       9D 3A BF 97 70 07 42 E6 47 13 FA 6D F6 04 5E 2E
+       data hash MD5: 1548K * 12
+       98 99 F4 B7 83 BE 11 0A 8B E5 12 28 0B EC 9F 22>)
+(   2,<2024-10-18 11:28:56.640 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<proc2d>,<TopSpin 3.5.6>,
+      <Start of raw data processing
+       xf2 F2: TDoff = 32 SI = 64K WDW = 1 LB = 3 FT_mod = 6 PKNL = 1 PHC0 = -143.7392 PHC1 = -6608 F1: SI = 32
+       data hash MD5: 64K * 32
+       3E 39 6A 1D 2A B0 76 22 B4 2F 4F 61 D4 5E C0 BE>)
+(   3,<2024-10-18 11:31:05.441 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<proc2d>,<TopSpin 3.5.6>,
+      <pk2 fgphup F2: PHC0 = 13.6 PHC1 = 0
+       data hash MD5: 64K * 32
+       54 A5 EC 02 5F 92 A8 7C DF 1A CF 0F 46 BF 0D BA>)
+$$ C:/Users/buitr/Marbella Team Dropbox/Lauren Marbella/Undergraduate Shared/Pablo Buitrago/DATA/NMR/20241017_T1_PJB006/1/pdata/1/auditp.txt
+(   4,<2024-10-18 12:25:00.501 -0400>,<buitr>,<Pablo-Lenovo>,<proc2d>,<TopSpin 4.1.4>,
+      <Start of raw data processing
+       xf2 F2: TDoff = 32 SI = 64K WDW = 1 LB = 3 FT_mod = 6 PKNL = 1 PHC0 = -130.1392 PHC1 = -6608 F1: SI = 32
+       data hash MD5: 64K * 32
+       3D CC 63 B7 9C 20 A0 3A 88 4E 02 D6 2F 74 5E 69>)
+(   5,<2024-10-18 12:25:43.980 -0400>,<buitr>,<Pablo-Lenovo>,<proc2d>,<TopSpin 4.1.4>,
+      <pk2 fgphup F2: PHC0 = 5.6 PHC1 = 0
+       data hash MD5: 64K * 32
+       D7 F4 30 68 8E 67 2A 47 82 16 85 E0 D9 E9 E7 05>)
+(   6,<2024-10-18 12:27:21.826 -0400>,<buitr>,<Pablo-Lenovo>,<proc2d>,<TopSpin 4.1.4>,
+      <pk2 fgphup F2: PHC0 = -4 PHC1 = 0
+       data hash MD5: 64K * 32
+       92 66 B6 49 04 5B B2 16 03 3F 96 78 C3 E3 3F 2D>)
+$$ C:/Users/buitr/Marbella Team Dropbox/Lauren Marbella/Undergraduate Shared/Pablo Buitrago/DATA/NMR/hydrolysis_T1_invrec/1/pdata/1/auditp.txt
+(   7,<2024-10-18 21:51:02.144 -0400>,<buitr>,<Pablo-Lenovo>,<proc2d>,<TopSpin 4.1.4>,
+      <pk2 fgphup F2: PHC0 = 0.8 PHC1 = 0
+       data hash MD5: 64K * 32
+       AE 13 68 94 D0 1C 22 83 53 C9 53 54 FA 46 5A FF>)
+##END=
+
+$$ hash MD5
+$$ 53 AA E1 9D 90 24 B5 F0 16 E5 EA CD 7A 03 3C 03

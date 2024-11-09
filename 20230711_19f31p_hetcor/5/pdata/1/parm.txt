@@ -1,0 +1,74 @@
+
+Current Data Parameters
+NAME     20230711_19f31p_hetcor              
+EXPNO                 5              
+PROCNO                1              
+
+F2 - Acquisition Parameters
+Date_          20230711              
+Time              16.46 h            
+INSTRUM           spect              
+PROBHD   Z125339_0001 (              
+PULPROG  hmqcgpqf_nd.top              
+TD                 2048              
+SOLVENT            DMSO              
+NS                    2              
+DS                    4              
+SWH           37500.000 Hz           
+FIDRES        36.621094 Hz           
+AQ            0.0273067 sec          
+RG                 1030              
+DW               13.333 usec         
+DE                 6.50 usec         
+TE                300.0 K            
+CNST2       600.0000000              
+D0           0.00000300 sec          
+D1           1.50000000 sec          
+D2           0.00083333 sec          
+D12          0.00002000 sec          
+D13          0.00000400 sec          
+D16          0.00020000 sec          
+IN0          0.00000770 sec          
+TDav                  1              
+SFO1        376.4682461 MHz          
+NUC1                19F              
+P1                18.50 usec         
+P2                37.00 usec         
+PLW1        38.99399948 W            
+SFO2        161.9739732 MHz          
+NUC2                31P              
+P3                15.50 usec         
+PLW2        33.49700165 W            
+PLW12        0.80475003 W            
+GPNAM[1]       SINE.100              
+GPZ1              70.00 %            
+GPNAM[2]       SINE.100              
+GPZ2              30.00 %            
+GPNAM[3]       SINE.100              
+GPZ3              83.00 %            
+P16              450.00 usec         
+
+F1 - Acquisition parameters
+TD                   58              
+SFO1            161.974 MHz          
+FIDRES      2239.140137 Hz           
+SW              400.898 ppm          
+FnMODE               QF              
+
+F2 - Processing parameters
+SI                 1024              
+SF          376.4979949 MHz          
+WDW               QSINE              
+SSB      0              
+LB       0 Hz           
+GB       0              
+PC                 1.40              
+
+F1 - Processing parameters
+SI                 1024              
+MC2                  QF              
+SF          161.9755930 MHz          
+WDW               QSINE              
+SSB      0              
+LB       0 Hz           
+GB       0              

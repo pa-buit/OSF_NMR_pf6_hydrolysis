@@ -1,0 +1,67 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 6
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= buitrago
+$$ /400SL/data/buitrago/nmr/20241017_T1_PJB006/2/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-10-17 17:31:23.515 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<go4>,<TopSpin 3.5.6>,
+      <created by zg
+	started at 2024-10-17 17:09:46.278 -0400,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       9D 3A BF 97 70 07 42 E6 47 13 FA 6D F6 04 5E 2E
+       data hash MD5: 256K * 12
+       30 D6 3A 61 DF C1 F1 D1 08 2A 41 D9 95 43 4D 5E>)
+(   2,<2024-10-17 17:32:15.579 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<proc2d>,<TopSpin 3.5.6>,
+      <Start of raw data processing
+       xfb F2: SI = 128K WDW = 1 LB = 20 FT_mod = 6 PKNL = 1 F1: SI = 32 WDW = 3 SSB = 0 FT_mod = 6 FCOR = 0.5 PH_mod = 2
+       data hash MD5: 128K * 32
+       4B 6E 35 CC 4B B6 B1 92 86 23 59 E4 AF 0C C4 D3>)
+(   3,<2024-10-18 10:05:33.283 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<audit>,<TopSpin 3.5.6>,
+      <user comment:
+       TITLE=PJB006
+       31P T1 inversion recovery (no 1H decoupling)
+       d1 = 10s
+       o1p=-144 centered on the center peakTITLE_END
+       data hash MD5: 128K * 32
+       4B 6E 35 CC 4B B6 B1 92 86 23 59 E4 AF 0C C4 D3>)
+(   4,<2024-10-18 10:05:33.505 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<audit>,<TopSpin 3.5.6>,
+      <user comment:
+       TITLE=PJB006
+       31P T1 inversion recovery (no 1H decoupling)
+       d1 = 10s
+       o1p=-144 centered on the center peakTITLE_END
+       data hash MD5: 128K * 32
+       4B 6E 35 CC 4B B6 B1 92 86 23 59 E4 AF 0C C4 D3>)
+$$ C:/Users/buitr/Marbella Team Dropbox/Lauren Marbella/Undergraduate Shared/Pablo Buitrago/DATA/NMR/20241017_T1_PJB006/2/pdata/1/auditp.txt
+(   5,<2024-10-18 12:28:59.305 -0400>,<buitr>,<Pablo-Lenovo>,<proc2d>,<TopSpin 4.1.4>,
+      <Start of raw data processing
+       xf2 F2: SI = 128K WDW = 1 LB = 20 FT_mod = 6 PKNL = 1 F1: SI = 32
+       data hash MD5: 128K * 32
+       FB D1 0D 9A D7 B1 72 09 62 B6 09 77 E1 59 1E DB>)
+(   6,<2024-10-18 12:29:15.139 -0400>,<buitr>,<Pablo-Lenovo>,<proc2d>,<TopSpin 4.1.4>,
+      <pk2 fgphup F2: PHC0 = 42.4 PHC1 = 0
+       data hash MD5: 128K * 32
+       32 4C 3A BD E5 AD C9 72 68 5C 45 DA 6E 1E 42 2A>)
+(   7,<2024-10-18 12:30:20.351 -0400>,<buitr>,<Pablo-Lenovo>,<proc2d>,<TopSpin 4.1.4>,
+      <Start of raw data processing
+       xf2 F2: SI = 128K WDW = 1 LB = 20 FT_mod = 6 PKNL = 1 F1: SI = 32
+       data hash MD5: 128K * 32
+       FB D1 0D 9A D7 B1 72 09 62 B6 09 77 E1 59 1E DB>)
+(   8,<2024-10-18 12:30:39.315 -0400>,<buitr>,<Pablo-Lenovo>,<proc2d>,<TopSpin 4.1.4>,
+      <pk2 fgphup F2: PHC0 = 38.4 PHC1 = 0
+       data hash MD5: 128K * 32
+       4A 88 BA 3F 96 A1 B3 46 05 95 99 F9 54 36 F9 0F>)
+(   9,<2024-10-18 12:31:00.981 -0400>,<buitr>,<Pablo-Lenovo>,<proc2d>,<TopSpin 4.1.4>,
+      <pk2 fgphup F2: PHC0 = 0 PHC1 = 0
+       data hash MD5: 128K * 32
+       4A 88 BA 3F 96 A1 B3 46 05 95 99 F9 54 36 F9 0F>)
+$$ C:/Users/buitr/Marbella Team Dropbox/Lauren Marbella/Undergraduate Shared/Pablo Buitrago/DATA/NMR/hydrolysis_T1_invrec/2/pdata/1/auditp.txt
+(  10,<2024-10-18 21:52:40.168 -0400>,<buitr>,<Pablo-Lenovo>,<proc2d>,<TopSpin 4.1.4>,
+      <pk2 fgphup F2: PHC0 = 12 PHC1 = 0
+       data hash MD5: 128K * 32
+       8C 35 3C FD 27 06 B5 EA 8C C6 EC 8F 0B E1 88 61>)
+##END=
+
+$$ hash MD5
+$$ 7E 00 76 BB 5B DE 74 42 D3 EA AC C3 AD BC 24 F9

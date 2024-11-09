@@ -1,0 +1,16 @@
+##TITLE= Parameter file, TopSpin 4.1.4
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= buitr
+$$ 2024-10-27 19:05:38.351 -0400  buitr@Pablo-Lenovo
+$$ C:/Users/buitr/Marbella Team Dropbox/Lauren Marbella/Undergraduate Shared/Pablo Buitrago/DATA/NMR/20241013_hydrolysis_reviews/3000/pdata/1/outd
+$$ process C:\Bruker\TopSpin4.1.4\prog\mod\proc1d.exe
+##$CURPLOT= <¨BÜBèB>
+##$CURPRIN= <$1#1#0#1#1#1#1#1#0#-1#-1#1#-1>
+##$DFORMAT= <normdp>
+##$LAYOUT= <+/1D_BB.xwp>
+##$LFORMAT= <normlp>
+##$PFORMAT= <normpl>
+##END=

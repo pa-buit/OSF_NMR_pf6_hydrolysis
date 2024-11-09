@@ -1,0 +1,16 @@
+##TITLE= Parameter file, TopSpin 4.1.4
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 2	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= buitrago
+$$ 2024-10-18 22:11:13.159 -0400  buitr@Pablo-Lenovo
+$$ C:/Users/buitr/Marbella Team Dropbox/Lauren Marbella/Undergraduate Shared/Pablo Buitrago/DATA/NMR/hydrolysis_T1_invrec/8/pdata/1/outd
+$$ process C:\Bruker\TopSpin4.1.4\prog\mod\t1.exe
+##$CURPLOT= <room208_11x17>
+##$CURPRIN= <$HP5100-letter>
+##$DFORMAT= <normdp>
+##$LAYOUT= <+/1D208_P31_11x17.xwp>
+##$LFORMAT= <normlp>
+##$PFORMAT= <normpl>
+##END=

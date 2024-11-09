@@ -1,0 +1,10 @@
+   Current data set:
+   NAME =	hydrolysis_PJB009	EXPNO =	1004	PROCNO = 1
+   DU   =	C:/Users/buitr/Marbella Team Dropbox/Lauren Marbella/Undergraduate Shared/Pablo Buitrago/DATA/NMR
+
+   Number   Integrated Region     Integral
+     1    -66.791    -71.957         1.00000
+     2    -72.062    -78.330       211.33934
+     3    -80.768    -87.377         0.43303
+     4   -152.266   -161.026         0.36804
+     5   -185.554   -193.359         0.17943

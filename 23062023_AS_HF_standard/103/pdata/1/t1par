@@ -1,0 +1,46 @@
+##TITLE= Parameter file, TopSpin 3.5 pl 6
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 37	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= arbeli
+$$ 2024-02-05 15:08:07.419 -0500  arbeli@nmr50pri.chem.columbia.edu
+$$ /400SL/data/arbeli/nmr/23062023_AS_HF_standard/103/pdata/1/t1par
+$$ process /opt/topspin3.5pl6/prog/mod/dataserver
+##$BIGDEL= 100
+##$CALCDN= yes
+##$COMPNO= 1
+##$CONV= 1e-05
+##$CURSOR= 1
+##$DRIFT= 5
+##$EDGUESS= 0
+##$EDPARM= 0
+##$FCTTYPE= 1
+##$FIDNUMB= 1
+##$FITT1T2= 0
+##$FITTYPE= 1
+##$GAMM= 10000
+##$GRADIEN= 1
+##$GUESSES= (0..23)
+1 1 1 1 1 1 1 1 1 1 1 1 0.1 0.1 0.1 1 1 1 1 1 1 1 1 1
+##$INC= 1
+##$INTRNG= 1
+##$LISTINC= 0.001
+##$LISTTYP= <vdlist>
+##$LITDEL= 10
+##$MAXPNTS= 12
+##$NUMPNTS= 12
+##$NUMTERM= 3
+##$PARM= (0..11)
+0.178022047482135 2.78471494147633 0.36140680826735 0 0 0 0 0 0 0 0 0
+##$PDTYP= <pd>
+##$REGIONS= 1
+##$SHOWINT= yes
+##$SHOWPP= yes
+##$SHOWTXT= 1
+##$START= 1
+##$X_END= 60
+##$X_START= 1e-05
+##$Y_END= 8.331565e+07
+##$Y_START= -8.331565e+07
+##END=

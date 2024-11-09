@@ -1,0 +1,11 @@
+##TITLE= Parameter file, TopSpin 4.3.0
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 5	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= ells
+$$ 2024-10-30 11:35:23.083 -0700  laurenmarbella@Laurens-MacBook-Pro-69.local
+$$ /Users/laurenmarbella/Marbella Team Dropbox/Lauren Marbella/Undergraduate Shared/Pablo Buitrago/DATA/NMR/hydrolysis_PJB002/1/pdata/1/assocs
+$$ process /opt/topspin4.3.0/prog/mod/dataserver
+##$MULTDISP= </Users/laurenmarbella/Marbella Team Dropbox/Lauren Marbella/Undergraduate Shared/Pablo Buitrago/DATA/NMR/hydrolysis_PJB002/37/pdata/1|/Users/laurenmarbella/Marbella Team Dropbox/Lauren Marbella/Undergraduate Shared/Pablo Buitrago/DATA/NMR/hydrolysis_PJB005/27/pdata/1|/Users/laurenmarbella/Marbella Team Dropbox/Lauren Marbella/Undergraduate Shared/Pablo Buitrago/DATA/NMR/hydrolysis_PJB002/7/pdata/1>
+##END=

@@ -1,0 +1,13 @@
+   Current data set:
+   NAME =	20240306_LiPF6_hydrolysis	EXPNO =	1002	PROCNO = 1
+   DU   =	C:/Users/buitr/Marbella Team Dropbox/Lauren Marbella/Undergraduate Shared/Pablo Buitrago/DATA/NMR
+
+   Number   Integrated Region     Integral
+     1     19.306     14.680         0.00076
+     2     -0.524     -2.837         0.00007
+     3     -5.936     -6.838         0.00042
+     4     -6.838     -7.515         0.00125
+     5    -10.867    -11.403         0.00035
+     6    -11.403    -11.698         0.00110
+     7    -13.385    -26.029         0.15760
+     8   -110.935   -179.367         1.00000

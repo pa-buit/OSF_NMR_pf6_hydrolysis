@@ -1,0 +1,67 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 6
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= buitrago
+$$ /400SL/data/buitrago/nmr/20230526_hydrolysis/1/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2023-05-26 17:15:08.794 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<go4>,<TopSpin 3.5.6>,
+      <created by zg
+	started at 2023-05-26 17:12:16.456 -0400,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       C9 55 EE 94 C8 46 F4 CF EC 27 EF D9 14 8E 1C 16
+       data hash MD5: 64K
+       10 5E B4 D2 96 06 9E 5F 6B 9B D9 7A 8D 66 AA 3B>)
+(   2,<2023-05-26 17:15:23.881 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<proc1d>,<TopSpin 3.5.6>,
+      <Start of raw data processing
+       efp LB = 0.1 FT_mod = 6 PKNL = 1 PHC0 = 153.4381 PHC1 = -84.32015 SI = 64K 
+       data hash MD5: 64K
+       B0 21 76 02 32 AF 7D 34 67 EE 9C 3B 7C 7E E4 9A>)
+(   3,<2023-05-26 17:15:26.084 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<proc1d>,<TopSpin 3.5.6>,
+      <apk 
+       data hash MD5: 64K
+       B3 B9 71 B1 46 02 75 0E 88 B9 5B 21 11 B9 F1 1B>)
+(   4,<2023-06-20 12:38:31.283 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<audit>,<TopSpin 3.5.6>,
+      <user comment:
+       TITLE=PJB001
+       1H
+       1M KPF6 / ECPC / ~3% H20
+       Proof of concept
+       t0 = May 26, 16:41
+       NOTE - UNABLE TO LOCK, OLD DMSO!TITLE_END
+       data hash MD5: 64K
+       B3 B9 71 B1 46 02 75 0E 88 B9 5B 21 11 B9 F1 1B>)
+(   5,<2023-06-20 12:38:31.535 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<audit>,<TopSpin 3.5.6>,
+      <user comment:
+       TITLE=PJB001
+       1H
+       1M KPF6 / ECPC / ~3% H20
+       Proof of concept
+       t0 = May 26, 16:41
+       NOTE - UNABLE TO LOCK, OLD DMSO!TITLE_END
+       data hash MD5: 64K
+       B3 B9 71 B1 46 02 75 0E 88 B9 5B 21 11 B9 F1 1B>)
+(   6,<2023-06-20 16:33:59.320 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<audit>,<TopSpin 3.5.6>,
+      <user comment:
+       TITLE=PJB001
+       1H
+       1M KPF6 / ECPC / ~3% H2O
+       Proof of concept
+       t0 = May 26, 16:41
+       NOTE - UNABLE TO LOCK, OLD DMSO!TITLE_END
+       data hash MD5: 64K
+       B3 B9 71 B1 46 02 75 0E 88 B9 5B 21 11 B9 F1 1B>)
+(   7,<2023-06-20 16:34:00.481 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<audit>,<TopSpin 3.5.6>,
+      <user comment:
+       TITLE=PJB001
+       1H
+       1M KPF6 / ECPC / ~3% H2O
+       Proof of concept
+       t0 = May 26, 16:41
+       NOTE - UNABLE TO LOCK, OLD DMSO!TITLE_END
+       data hash MD5: 64K
+       B3 B9 71 B1 46 02 75 0E 88 B9 5B 21 11 B9 F1 1B>)
+##END=
+
+$$ hash MD5
+$$ 48 35 88 08 6C 7B 13 FB 54 AC CF D2 67 8D 3B 4E

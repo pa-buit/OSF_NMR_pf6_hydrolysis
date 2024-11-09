@@ -1,0 +1,50 @@
+
+New TopShim run:
+
+version = topshim 2.4.0
+date = 2024-10-27
+time = 15:22:33.395
+command = topshim  convcomp
+
+FINE SHIMMING
+
+Parameters:
+
+probe = Z125339_0001
+solvent = DMSO
+shim nucleus = 2H
+nucleus optimised for = 19F
+o1p (from lock) = 2.49 ppm
+
+Results:
+
+NOTE: No 19F B1-profile found. Optimizing shimming as if for NMR nucleus = 1H
+
+
+1D Shimming:
+Iteration  1: FWHM Before= 1.1 Hz, Target= 1.0 Hz, After= 3.0 Hz
+Iteration  2: FWHM Before= 3.0 Hz, Target= 0.9 Hz, After= 0.8 Hz
+Iteration  3: FWHM Before= 0.8 Hz, Target= 0.8 Hz, After= 1.4 Hz
+Iteration  4: FWHM Before= 1.4 Hz, Target= 0.2 Hz, After= 1.7 Hz
+Iteration  5: FWHM Before= 1.7 Hz, Target= 0.8 Hz, After= 4.4 Hz
+Iteration  6: FWHM Before= 4.4 Hz, Target= 1.2 Hz, After= 1.5 Hz
+Iteration  7: FWHM Before= 1.5 Hz, Target= 0.9 Hz, After= 3.6 Hz
+Iteration  8: FWHM Before= 3.6 Hz, Target= 0.7 Hz, After= 3.5 Hz
+Iteration  9: FWHM Before= 3.5 Hz, Target= 1.6 Hz, After= 4.8 Hz
+Using the best result as the final shim state.
+
+Lineshape quality factor (1D spectrum, spinning) = 2.8
+
+shim changes: 
+Z	-116
+Z2	+181
+Z3	+1337
+Z4	-1565
+Z5	-5364
+
+duration = 5 min 15 sec
+completed successfully
+finished Sun Oct 27 15:27:47 2024
+
+
+========================================================================

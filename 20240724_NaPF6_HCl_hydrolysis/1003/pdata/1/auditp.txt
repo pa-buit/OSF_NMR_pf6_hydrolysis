@@ -1,0 +1,62 @@
+##TITLE= Audit trail, TopSpin 4.1.4
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= buitr
+$$ C:/Users/buitr/Marbella Team Dropbox/Lauren Marbella/Undergraduate Shared/Pablo Buitrago/DATA/NMR/20240724_NaPF6_HCl_hydrolysis/1003/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-07-24 18:43:09.384 -0400>,<ells>,<nmr50pri.chem.columbia.edu>,<go4>,<TopSpin 3.5.6>,
+      <created by zg
+	started at 2024-07-24 18:37:37.681 -0400,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       9D 3A BF 97 70 07 42 E6 47 13 FA 6D F6 04 5E 2E
+       data hash MD5: 64K
+       DB EE FA 83 E6 69 21 E0 7D D7 36 41 C3 3E D4 8D>)
+(   2,<2024-07-25 01:00:32.743 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <convdta from       4 "20240724_NaPF6_HCl_hydrolysis" "C:/Users/buitr/Marbella Team Dropbox/Lauren Marbella/Undergraduate Shared/Pablo Buitrago/DATA/NMR"
+       data hash MD5: 65400
+       81 31 3B AE DE F8 58 FF EB 42 BC 5A D9 00 C8 53>)
+(   3,<2024-07-25 01:00:33.054 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <Start of raw data processing
+       em LB = 5 SI = 64K 
+       data hash MD5: 64K
+       4A B7 F7 C8 DA 4F 32 08 81 A9 3F 05 F5 29 33 94>)
+(   4,<2024-07-25 01:00:33.215 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <ft FT_mod = 6 PKNL = 1 SI = 64K 
+       data hash MD5: 64K
+       44 E7 89 9D B4 69 BA F6 31 F9 7B 87 D1 A8 1C F2>)
+(   5,<2024-07-25 01:00:33.809 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <apk 
+       data hash MD5: 64K
+       39 49 B9 6E CD DC 6A 1C F8 12 C7 A1 3B 0A CA 67>)
+(   6,<2024-07-25 01:00:33.938 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <abs n ABSG = 5 
+       data hash MD5: 64K
+       73 94 95 F0 97 99 E2 CF 49 D0 1E 6F DD 8B BF 84>)
+(   7,<2024-07-25 01:00:36.165 -0400>,<buitr>,<Pablo-Lenovo>,<cprserver>,<TopSpin 4.1.4>,
+      <changed parameter F1 ME_mod to LPbr>)
+(   8,<2024-07-25 01:00:40.804 -0400>,<buitr>,<Pablo-Lenovo>,<cprserver>,<TopSpin 4.1.4>,
+      <changed parameter F1 TDoff to 100>)
+(   9,<2024-07-25 01:00:49.870 -0400>,<buitr>,<Pablo-Lenovo>,<cprserver>,<TopSpin 4.1.4>,
+      <changed parameter F1 LB to 10.00>)
+(  10,<2024-07-25 01:00:51.345 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <Start of raw data processing
+       efp ME_mod = 4 NCOEF = 1024 TDoff = 100 LB = 10 FT_mod = 6 PKNL = 1 PHC0 = -51.25842 PHC1 = 55.55164 SI = 64K 
+       data hash MD5: 64K
+       ED 9C AB F0 58 DA 8B AF 3B 09 74 15 80 95 89 4B>)
+(  11,<2024-07-25 01:01:06.104 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <pk fgphup PHC0 = -132.6502 PHC1 = -419.2 
+       data hash MD5: 64K
+       EC E8 69 BF 95 82 D5 00 42 91 EA 79 3D 24 1D 6D>)
+(  12,<2024-07-25 01:01:07.290 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <apk 
+       data hash MD5: 64K
+       EE DF A4 55 2B 19 A5 3A 2D A4 46 50 77 5E 39 EE>)
+(  13,<2024-07-25 01:01:08.346 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <abs n ABSG = 5 
+       data hash MD5: 64K
+       FB 76 75 33 88 DE 76 E7 4E 1D 42 54 B0 7A 59 A6>)
+##END=
+
+$$ hash MD5
+$$ D3 FD B7 65 A5 F5 B0 46 8F BF 2F D7 DF D0 0E 0C

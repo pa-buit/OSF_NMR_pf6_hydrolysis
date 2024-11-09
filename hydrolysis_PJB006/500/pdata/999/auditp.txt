@@ -1,0 +1,15 @@
+##TITLE= Audit trail, TopSpin 4.1.4
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= buitr
+$$ C:/Users/buitr/Marbella Team Dropbox/Lauren Marbella/Undergraduate Shared/Pablo Buitrago/DATA/NMR/hydrolysis_PJB006/500/pdata/999/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-04-28 20:10:20.375 -0400>,<buitr>,<Pablo-Lenovo>,<mvrow>,<TopSpin 4.1.4>,
+      <f2projp 1 113 from
+       1 500 "hydrolysis_PJB006" "C:/Users/buitr/Marbella Team Dropbox/Lauren Marbella/Undergraduate Shared/Pablo Buitrago/DATA/NMR"
+       data hash MD5: 1K
+       E8 04 95 17 C1 6D BA 1E 52 B8 B2 13 B0 64 57 78>)
+##END=
+
+$$ hash MD5
+$$ 94 3C 95 80 6B CF EF 70 0E D7 C5 76 2B 52 8D C8

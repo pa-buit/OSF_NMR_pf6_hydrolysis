@@ -1,0 +1,11 @@
+##TITLE= Parameter file, TopSpin 3.5 pl 6
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 2	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= buitrago
+$$ 2023-06-22 09:44:50.478 -0400  buitrago@nmr50pri.chem.columbia.edu
+$$ /400SL/data/buitrago/nmr/20230526_hydrolysis/64/pdata/1/assocs
+$$ process /opt/topspin3.5pl6/prog/mod/dataserver
+##$MULTDISP= </400SL/data/buitrago/nmr/20230526_hydrolysis/61/pdata/1>
+##END=

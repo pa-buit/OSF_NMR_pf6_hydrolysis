@@ -1,0 +1,16 @@
+##TITLE= Parameter file, TopSpin 3.5 pl 6
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= arbeli
+$$ 2023-06-26 10:18:38.914 -0400  arbeli@nmr50pri.chem.columbia.edu
+$$ /400SL/data/arbeli/nmr/23062023_AS_HF_standard/10/pdata/999/used_from
+$$ process /opt/topspin3.5pl6/prog/mod/mvrow
+##$CUREXP= <row>
+##$DATPATH= </400SL/data/arbeli/nmr>
+##$EXPNO= 10
+##$NAME= <23062023_AS_HF_standard>
+##$PROCNO= 1
+##$PROCNO2= 1
+##END=

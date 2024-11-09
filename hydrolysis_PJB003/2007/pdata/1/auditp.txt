@@ -1,0 +1,77 @@
+##TITLE= Audit trail, TopSpin 4.1.4
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= buitr
+$$ C:/Users/buitr/Marbella Team Dropbox/Lauren Marbella (marbellalab)/Undergraduate Shared/Pablo Buitrago/DATA/NMR/hydrolysis_PJB003/2007/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2023-06-21 17:34:25.850 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<go4>,<TopSpin 3.5.6>,
+      <created by zg
+	started at 2023-06-21 17:28:54.180 -0400,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       C9 55 EE 94 C8 46 F4 CF EC 27 EF D9 14 8E 1C 16
+       data hash MD5: 64K
+       FB EA C7 ED 81 71 F6 F4 FC BF 7B 30 05 EC F7 41>)
+(   2,<2024-04-12 17:14:30.865 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <convdta from       62 "hydrolysis_PJB003" "C:/Users/buitr/Marbella Team Dropbox/Lauren Marbella (marbellalab)/Undergraduate Shared/Pablo Buitrago/DATA/NMR"
+       data hash MD5: 65400
+       68 46 B7 6B 6A 7D 96 96 53 A5 DE EB EF 5C 5F 96>)
+(   3,<2024-04-12 17:14:31.251 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <Start of raw data processing
+       em LB = 10 SI = 64K 
+       data hash MD5: 64K
+       5F 25 54 D6 82 3D EE BA 44 8B F9 90 50 7F 73 80>)
+(   4,<2024-04-12 17:14:31.627 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <ft FT_mod = 6 PKNL = 1 SI = 64K 
+       data hash MD5: 64K
+       B7 1A 39 18 10 9E 17 5A 69 CC 09 B3 59 7A 2D C9>)
+(   5,<2024-04-12 17:14:32.139 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <apk 
+       data hash MD5: 64K
+       87 B0 12 1C FB 82 9B 4D E3 37 97 EB 2D C8 78 93>)
+(   6,<2024-04-12 17:14:32.318 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <abs n ABSG = 5 
+       data hash MD5: 64K
+       9D 42 42 61 F4 8A 6B 01 B9 7C 7F 13 92 B6 ED 6C>)
+(   7,<2024-04-14 12:33:08.583 -0400>,<buitr>,<Pablo-Lenovo>,<cprserver>,<TopSpin 4.1.4>,
+      <changed parameter F1 ME_mod to LPbr>)
+(   8,<2024-04-14 12:33:11.196 -0400>,<buitr>,<Pablo-Lenovo>,<cprserver>,<TopSpin 4.1.4>,
+      <changed parameter F1 TDoff to 100>)
+(   9,<2024-04-14 12:33:12.736 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <Start of raw data processing
+       efp ME_mod = 4 NCOEF = 1024 TDoff = 100 LB = 10 FT_mod = 6 PKNL = 1 PHC0 = -1.228535 PHC1 = -49.77219 SI = 64K 
+       data hash MD5: 64K
+       09 C2 ED 12 F0 BD 6D D7 67 37 44 46 DC CF DB 3D>)
+(  10,<2024-04-14 12:33:19.597 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <pk fgphup PHC0 = 168.8359 PHC1 = -310.4 
+       data hash MD5: 64K
+       BA 7E CB 78 56 1E CE FD 0A 05 05 7A 7B F0 A4 6C>)
+(  11,<2024-04-14 12:33:20.400 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <apk 
+       data hash MD5: 64K
+       5F 52 C5 E1 9E 42 1E FD 15 9A DC C5 DE 15 41 8A>)
+(  12,<2024-04-14 12:33:21.149 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <abs n ABSG = 5 
+       data hash MD5: 64K
+       5B 73 14 75 D4 36 5E A7 92 5F CC 22 98 89 D9 4E>)
+(  13,<2024-04-14 12:33:35.447 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <Start of raw data processing
+       efp ME_mod = 4 NCOEF = 1024 TDoff = 100 LB = 10 FT_mod = 6 PKNL = 1 PHC0 = 175.6861 PHC1 = -378.4532 SI = 64K 
+       data hash MD5: 64K
+       17 9D 32 C3 D5 38 73 C7 FE B3 13 56 E6 E9 F3 7F>)
+(  14,<2024-04-14 12:33:41.057 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <pk fgphup PHC0 = -15.66519 PHC1 = 28.8 
+       data hash MD5: 64K
+       18 9F 19 16 89 6B EA 00 F8 BF A2 10 CF 19 81 72>)
+(  15,<2024-04-14 12:33:42.112 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <apk 
+       data hash MD5: 64K
+       2C 85 1C 89 5C 62 05 9D 93 CF 22 2D CF 76 3E 10>)
+(  16,<2024-04-14 12:33:43.117 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <abs n ABSG = 5 
+       data hash MD5: 64K
+       39 44 20 6D 0A 66 8D A9 81 19 A3 6C 96 7D A3 F8>)
+##END=
+
+$$ hash MD5
+$$ 92 6A 3E 0E 34 E9 23 00 C5 8E 72 88 2D 97 8F CA

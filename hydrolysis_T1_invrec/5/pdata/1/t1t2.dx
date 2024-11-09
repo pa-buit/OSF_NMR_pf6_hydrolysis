@@ -1,0 +1,119 @@
+##TITLE= List of Points
+##JCAMPDX= 5.0
+##DATA TYPE= LINK
+##BLOCKS= 5	$$ is the number of fits or point lists
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= laurenmarbella
+$$ 2024-10-28 12:19:55.549 -0700  laurenmarbella@Laurens-MacBook-Pro-69.local
+$$ /Users/laurenmarbella/Marbella Team Dropbox/Lauren Marbella/Undergraduate Shared/Pablo Buitrago/DATA/NMR/hydrolysis_T1_invrec/5/pdata/1/t1t2.dx
+##XUNITS= sec
+##YUNITS= a.u.
+##MINX=   1.000000e-05
+##MAXX=   6.000000e+01
+##MINY=  -1.000000e+00
+##MAXY=   1.000000e+00
+##TITLE= Peak No. 1 at -71.065 ppm, invrec, I[0] = -1.528e-04, A = -1.146e-01, T =    1.463s
+##JCAMP-DX= 5.0
+##DATA TYPE= Relaxation Data
+$$
+##$FITFKT= invrec( -1.528482e-04,  -1.145769e-01,   1.462838e+00)
+$$
+##NPOINTS= 11
+##XYPOINTS= (XY..XY)
+  1.000000e-05, -1.623899e-03
+  1.000000e-04, -1.868649e-03
+  1.000000e-03, -1.703291e-03
+  1.000000e-02, -1.374172e-03
+  1.000000e-01, -5.409190e-04
+  1.000000e+00,  4.731870e-04
+  5.000000e+00,  1.236995e-03
+  1.000000e+01,  1.263370e-03
+  2.000000e+01,  1.276604e-03
+  4.000000e+01,  1.204645e-03
+  6.000000e+01,  1.122949e-03
+##END= $$ End of List for Peak No. 1
+##TITLE= Peak No. 2 at -72.889 ppm, invrec, I[0] =  9.977e-01, A =  6.469e-01, T =    3.028s
+##JCAMP-DX= 5.0
+##DATA TYPE= Relaxation Data
+$$
+##$FITFKT= invrec(  9.976992e-01,   6.469386e-01,   3.027638e+00)
+$$
+##NPOINTS= 12
+##XYPOINTS= (XY..XY)
+  1.000000e-05, -2.923970e-01
+  1.000000e-04, -2.951791e-01
+  1.000000e-03, -2.839438e-01
+  1.000000e-02, -2.961337e-01
+  1.000000e-01, -2.576871e-01
+  5.000000e-01, -9.070631e-02
+  1.000000e+00,  7.167841e-02
+  5.000000e+00,  7.474318e-01
+  1.000000e+01,  9.487669e-01
+  2.000000e+01,  9.967417e-01
+  4.000000e+01,  9.970376e-01
+  6.000000e+01,  1.000000e+00
+##END= $$ End of List for Peak No. 2
+##TITLE= Peak No. 3 at -75.976 ppm, invrec, I[0] =  2.084e-02, A =  6.796e-01, T =    1.113s
+##JCAMP-DX= 5.0
+##DATA TYPE= Relaxation Data
+$$
+##$FITFKT= invrec(  2.083911e-02,   6.796109e-01,   1.112667e+00)
+$$
+##NPOINTS= 12
+##XYPOINTS= (XY..XY)
+  1.000000e-05, -7.610750e-03
+  1.000000e-04, -7.889546e-03
+  1.000000e-03, -7.745021e-03
+  1.000000e-02, -6.831448e-03
+  1.000000e-01, -4.522252e-03
+  5.000000e-01,  2.721058e-03
+  1.000000e+00,  9.218207e-03
+  5.000000e+00,  2.050712e-02
+  1.000000e+01,  2.090732e-02
+  2.000000e+01,  2.088970e-02
+  4.000000e+01,  2.080439e-02
+  6.000000e+01,  2.078836e-02
+##END= $$ End of List for Peak No. 3
+##TITLE= Peak No. 4 at -79.995 ppm, invrec, I[0] =  1.038e-02, A =  7.296e-01, T =  851.675m
+##JCAMP-DX= 5.0
+##DATA TYPE= Relaxation Data
+$$
+##$FITFKT= invrec(  1.037586e-02,   7.295842e-01,   8.516751e-01)
+$$
+##NPOINTS= 12
+##XYPOINTS= (XY..XY)
+  1.000000e-05, -5.011530e-03
+  1.000000e-04, -5.133010e-03
+  1.000000e-03, -4.994874e-03
+  1.000000e-02, -4.197525e-03
+  1.000000e-01, -2.478333e-03
+  5.000000e-01,  1.945825e-03
+  1.000000e+00,  5.522338e-03
+  5.000000e+00,  1.030908e-02
+  1.000000e+01,  1.041605e-02
+  2.000000e+01,  1.034876e-02
+  4.000000e+01,  1.043832e-02
+  6.000000e+01,  1.037760e-02
+##END= $$ End of List for Peak No. 4
+##TITLE= Peak No. 5 at -83.629 ppm, invrec, I[0] =  1.494e-02, A =  6.965e-01, T =    1.116s
+##JCAMP-DX= 5.0
+##DATA TYPE= Relaxation Data
+$$
+##$FITFKT= invrec(  1.494317e-02,   6.965280e-01,   1.116266e+00)
+$$
+##NPOINTS= 12
+##XYPOINTS= (XY..XY)
+  1.000000e-05, -6.447419e-03
+  1.000000e-04, -6.338155e-03
+  1.000000e-03, -5.947407e-03
+  1.000000e-02, -5.159691e-03
+  1.000000e-01, -3.376689e-03
+  5.000000e-01,  1.725337e-03
+  1.000000e+00,  6.213213e-03
+  5.000000e+00,  1.466708e-02
+  1.000000e+01,  1.492778e-02
+  2.000000e+01,  1.498512e-02
+  4.000000e+01,  1.494944e-02
+  6.000000e+01,  1.498897e-02
+##END= $$ End of List for Peak No. 5
+##END= $$ End of List of Points

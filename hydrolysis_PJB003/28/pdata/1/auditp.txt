@@ -1,0 +1,59 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 6
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= buitrago
+$$ /400SL/data/buitrago/nmr/20230526_hydrolysis/28/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2023-06-14 15:29:39.976 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<go4>,<TopSpin 3.5.6>,
+      <created by zg
+	started at 2023-06-14 15:26:47.646 -0400,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       C9 55 EE 94 C8 46 F4 CF EC 27 EF D9 14 8E 1C 16
+       data hash MD5: 64K
+       32 04 5B 87 1D 65 61 35 F4 AE 72 D3 2F 6A BB 48>)
+(   2,<2023-06-14 15:30:02.952 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<proc1d>,<TopSpin 3.5.6>,
+      <Start of raw data processing
+       efp LB = 0.1 FT_mod = 6 PKNL = 1 PHC0 = 110.0319 PHC1 = -16.72127 SI = 64K 
+       data hash MD5: 64K
+       5D FE 9F 76 C6 EF 04 24 C7 AF 66 E6 BF 11 1F 5A>)
+(   3,<2023-06-14 15:30:05.375 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<proc1d>,<TopSpin 3.5.6>,
+      <apk 
+       data hash MD5: 64K
+       B7 57 E4 F6 27 60 00 2F C2 46 32 D5 4D 29 98 51>)
+(   4,<2023-06-20 12:42:30.964 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<audit>,<TopSpin 3.5.6>,
+      <user comment:
+       TITLE=PJB003
+       1H
+       1M NaPF6 / ECPC / 1.5% H20
+       t0 = June 14, 11:45TITLE_END
+       data hash MD5: 64K
+       B7 57 E4 F6 27 60 00 2F C2 46 32 D5 4D 29 98 51>)
+(   5,<2023-06-20 12:42:31.305 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<audit>,<TopSpin 3.5.6>,
+      <user comment:
+       TITLE=PJB003
+       1H
+       1M NaPF6 / ECPC / 1.5% H20
+       t0 = June 14, 11:45TITLE_END
+       data hash MD5: 64K
+       B7 57 E4 F6 27 60 00 2F C2 46 32 D5 4D 29 98 51>)
+(   6,<2023-06-20 16:36:23.879 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<audit>,<TopSpin 3.5.6>,
+      <user comment:
+       TITLE=PJB003
+       1H
+       1M NaPF6 / ECPC / 1.5% H2O
+       t0 = June 14, 11:45TITLE_END
+       data hash MD5: 64K
+       B7 57 E4 F6 27 60 00 2F C2 46 32 D5 4D 29 98 51>)
+(   7,<2023-06-20 16:36:24.221 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<audit>,<TopSpin 3.5.6>,
+      <user comment:
+       TITLE=PJB003
+       1H
+       1M NaPF6 / ECPC / 1.5% H2O
+       t0 = June 14, 11:45TITLE_END
+       data hash MD5: 64K
+       B7 57 E4 F6 27 60 00 2F C2 46 32 D5 4D 29 98 51>)
+##END=
+
+$$ hash MD5
+$$ A6 D5 A9 DA C2 60 FB BF 4E D6 04 7C C9 1A C1 83

@@ -1,0 +1,33 @@
+##TITLE= Audit trail, TopSpin 3.7.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= buitrago
+$$ /400SL/data/buitrago/nmr/20241013_hydrolysis_reviews/70/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-10-26 08:46:26.510 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<go4>,<TopSpin 3.7.0>,
+      <created by zg on data set with UUID 'e99830cc-9397-11ef-863d-40a6b7ca9ad0'
+       started at 2024-10-26 08:43:34.038 -0400,
+       POWCHK enabled, PULCHK disabled,
+       completed at 2024-10-26 08:46:26.509 -0400
+
+       configuration hash MD5:
+       A4 5C EB D7 88 1C 68 52 DD 88 41 41 45 1E C6 E7
+       data hash MD5: 64K
+       0A 5B 70 2B 0F 75 89 33 DC 7C 06 C6 92 FD 99 6E>)
+(   2,<2024-10-26 08:46:30.318 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<proc1d>,<TopSpin 3.7.0>,
+      <Start of raw data processing
+       efp LB = 0.1 FT_mod = 6 PKNL = 1 PHC0 = 117.3006 PHC1 = -20.48264 SI = 64K 
+       data hash MD5: 64K
+       CB B9 5D B0 C0 7B C9 61 2A E4 8C 6D FA 96 01 41>)
+(   3,<2024-10-26 08:46:31.495 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<proc1d>,<TopSpin 3.7.0>,
+      <apk 
+       data hash MD5: 64K
+       0D 38 7D 6D 65 88 13 A3 CA A5 85 CB C8 8C 65 7F>)
+(   4,<2024-10-26 08:46:33.966 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<proc1d>,<TopSpin 3.7.0>,
+      <abs n ABSG = 5 
+       data hash MD5: 64K
+       A6 2A 60 60 8D FD E5 CA 5F A0 B3 BB 0F 2F E7 52>)
+##END=
+
+$$ hash MD5
+$$ 4C 0B 0E 1E C5 EE 54 78 1E B3 7F 36 DD 3F 13 5B

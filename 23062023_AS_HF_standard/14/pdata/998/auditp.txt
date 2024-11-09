@@ -1,0 +1,15 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 6
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= arbeli
+$$ /400SL/data/arbeli/nmr/23062023_AS_HF_standard/14/pdata/998/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2023-06-26 10:54:41.407 -0400>,<arbeli>,<nmr50pri.chem.columbia.edu>,<mvrow>,<TopSpin 3.5.6>,
+      <rsr 8 from
+       1 14 "23062023_AS_HF_standard" "/400SL/data/arbeli/nmr"
+       data hash MD5: 64K
+       EC 87 A8 38 93 1D 4D 5D 2E 94 A0 46 44 78 8A 55>)
+##END=
+
+$$ hash MD5
+$$ 76 1D 4E 87 6C 10 E8 EA 74 42 82 37 90 DC A6 CB

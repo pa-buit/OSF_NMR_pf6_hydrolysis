@@ -1,0 +1,35 @@
+SIMFIT RESULTS
+==============
+
+Dataset : C:/Users/buitr/Marbella Team Dropbox/Lauren Marbella/Undergraduate Shared/Pablo Buitrago/DATA/NMR/hydrolysis_T1_invrec/12/pdata/1/ct1t2.txt
+
+AREA fit : Inversion-Recovery(T1) : I[t]=I[0](1-2*A*exp(-t/T1))
+
+10 points for Integral 1,  Integral Region from -124.602 to -167.337 ppm
+
+Converged after 81 iterations!
+
+Results     Comp. 1    
+
+I[0]  =    9.955e-01  
+A     =    8.319e-01  
+T1    =       5.063s  
+
+RSS   =    6.075e-04
+SD    =    7.794e-03
+
+Point       Tau          Expt          Calc       Difference
+
+    1       1.000m    -6.510e-01    -6.606e-01   -9.515e-03
+    2      10.000m    -6.634e-01    -6.576e-01    5.821e-03
+    3      50.000m    -6.420e-01    -6.446e-01   -2.595e-03
+    4     100.000m    -6.408e-01    -6.285e-01    1.227e-02
+    5     500.000m    -4.956e-01    -5.051e-01   -9.557e-03
+    6       1.000s    -3.655e-01    -3.640e-01    1.509e-03
+    7       5.000s     3.706e-01     3.786e-01    7.991e-03
+    8      10.000s     7.750e-01     7.657e-01   -9.261e-03
+    9      60.000s     1.000e+00     9.955e-01   -4.525e-03
+   10     100.000s     9.876e-01     9.955e-01    7.873e-03
+
+============================================================
+

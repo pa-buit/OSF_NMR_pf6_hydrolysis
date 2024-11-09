@@ -1,0 +1,51 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 6
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= buitrago
+$$ /400SL/data/buitrago/nmr/20230526_hydrolysis/4/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2023-06-05 11:21:52.526 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<go4>,<TopSpin 3.5.6>,
+      <created by zg
+	started at 2023-06-05 11:16:20.853 -0400,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       C9 55 EE 94 C8 46 F4 CF EC 27 EF D9 14 8E 1C 16
+       data hash MD5: 64K
+       D1 D6 F5 28 3A 28 3C 4C 61 37 AD 05 96 67 A6 62>)
+(   2,<2023-06-05 11:22:46.009 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<proc1d>,<TopSpin 3.5.6>,
+      <Start of raw data processing
+       efp LB = 10 FT_mod = 6 PKNL = 1 PHC0 = 120.574 PHC1 = -276.0432 SI = 64K 
+       data hash MD5: 64K
+       D9 EB 2E 70 15 7F AF 9D DE A0 04 2B 74 4C CD 13>)
+(   3,<2023-06-05 11:22:47.426 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<proc1d>,<TopSpin 3.5.6>,
+      <apk 
+       data hash MD5: 64K
+       1A BF B3 E7 83 E8 02 9D 87 D4 C6 88 33 8D 2D 5C>)
+(   4,<2023-06-05 11:23:07.627 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<proc1d>,<TopSpin 3.5.6>,
+      <pk fgphup PHC0 = -2.2 PHC1 = 0 
+       data hash MD5: 64K
+       62 EC 9F 88 06 B4 C3 E1 B0 4D 5E 48 4F 14 C6 8D>)
+(   5,<2023-06-20 12:38:57.234 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<audit>,<TopSpin 3.5.6>,
+      <user comment:
+       TITLE=PJB001
+       19F
+       1M KPF6 / ECPC / ~3% H20
+       Proof of concept - check
+       t0 = May 26, 16:41
+       NOTE - UNABLE TO LOCK, OLD DMSO!TITLE_END
+       data hash MD5: 64K
+       62 EC 9F 88 06 B4 C3 E1 B0 4D 5E 48 4F 14 C6 8D>)
+(   6,<2023-06-20 12:38:57.582 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<audit>,<TopSpin 3.5.6>,
+      <user comment:
+       TITLE=PJB001
+       19F
+       1M KPF6 / ECPC / ~3% H20
+       Proof of concept - check
+       t0 = May 26, 16:41
+       NOTE - UNABLE TO LOCK, OLD DMSO!TITLE_END
+       data hash MD5: 64K
+       62 EC 9F 88 06 B4 C3 E1 B0 4D 5E 48 4F 14 C6 8D>)
+##END=
+
+$$ hash MD5
+$$ 97 95 6D 35 0F 6F B7 9C F7 33 86 A1 61 66 75 C6

@@ -1,0 +1,41 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 6
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= buitrago
+$$ /400SL/data/buitrago/nmr/20230526_hydrolysis/196/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2023-10-19 16:03:41.875 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<go4>,<TopSpin 3.5.6>,
+      <created by zg
+	started at 2023-10-19 15:37:49.455 -0400,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       C9 55 EE 94 C8 46 F4 CF EC 27 EF D9 14 8E 1C 16
+       data hash MD5: 256K
+       E9 3B 18 50 CC 0A 83 30 D3 E1 22 1B 14 94 88 FE>)
+(   2,<2023-10-19 16:03:51.494 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<proc1d>,<TopSpin 3.5.6>,
+      <Start of raw data processing
+       efp LB = 3 FT_mod = 6 PKNL = 1 PHC0 = 31.34615 PHC1 = 21.99973 SI = 128K 
+       data hash MD5: 128K
+       0C DC 81 11 E0 AB 33 BA A5 8C EC 2F A6 61 FC 6B>)
+(   3,<2023-10-19 16:03:58.028 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<proc1d>,<TopSpin 3.5.6>,
+      <apk 
+       data hash MD5: 128K
+       38 B3 4E 4D 8F 23 C0 37 2D 55 5F 33 02 AB 44 9E>)
+$$ C:/Users/buitr/Marbella Team Dropbox/Lauren Marbella (marbellalab)/Undergraduate Shared/Pablo Buitrago/DATA/NMR/hydrolysis_PJB006/196/pdata/1/auditp.txt
+(   4,<2024-04-14 19:54:54.169 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <Start of raw data processing
+       efp LB = 3 FT_mod = 6 PKNL = 1 PHC0 = 24.51596 PHC1 = 29.87774 SI = 128K 
+       data hash MD5: 128K
+       09 1E 78 BE E4 F8 79 98 99 BD 53 C2 25 75 CF 83>)
+(   5,<2024-04-14 19:54:55.025 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <apk 
+       data hash MD5: 128K
+       9B 78 97 4C 8F A0 BD 90 59 8D D4 4C 8E 79 52 C6>)
+(   6,<2024-04-14 19:54:55.447 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <abs n ABSG = 5 
+       data hash MD5: 128K
+       9B CD F1 77 98 71 8F 90 9D 98 4B DA EC D8 AF D2>)
+##END=
+
+$$ hash MD5
+$$ 79 26 43 D6 63 26 E1 54 A7 6B 42 EE 13 E0 D9 2E

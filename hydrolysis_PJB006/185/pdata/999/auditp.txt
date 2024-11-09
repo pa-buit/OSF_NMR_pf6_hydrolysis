@@ -1,0 +1,28 @@
+##TITLE= Audit trail, TopSpin 4.1.4
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= buitr
+$$ C:/Users/buitr/Marbella Team Dropbox/Lauren Marbella (marbellalab)/Undergraduate Shared/Pablo Buitrago/DATA/NMR/hydrolysis_PJB006/185/pdata/999/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-04-14 19:48:36.787 -0400>,<buitr>,<Pablo-Lenovo>,<mvrow>,<TopSpin 4.1.4>,
+      <f2projp 10 330 from
+       1 185 "hydrolysis_PJB006" "C:/Users/buitr/Marbella Team Dropbox/Lauren Marbella (marbellalab)/Undergraduate Shared/Pablo Buitrago/DATA/NMR"
+       data hash MD5: 1K
+       02 C0 21 00 AC 12 30 58 AB C0 FA D7 6B 69 70 A8>)
+$$ C:/Users/buitr/Marbella Team Dropbox/Lauren Marbella/Undergraduate Shared/Pablo Buitrago/DATA/NMR/hydrolysis_PJB006/185/pdata/999/auditp.txt
+(   2,<2024-05-22 17:02:39.300 -0400>,<buitr>,<Pablo-Lenovo>,<dataserver>,<TopSpin 4.1.4>,
+      <Start of interactive peak picking
+       data hash MD5: 1K
+       02 C0 21 00 AC 12 30 58 AB C0 FA D7 6B 69 70 A8>)
+(   3,<2024-05-22 17:02:40.975 -0400>,<buitr>,<Pablo-Lenovo>,<peak>,<TopSpin 4.1.4>,
+      <1D Peak picking
+       data hash MD5: 1K
+       02 C0 21 00 AC 12 30 58 AB C0 FA D7 6B 69 70 A8>)
+(   4,<2024-05-22 17:02:44.216 -0400>,<buitr>,<Pablo-Lenovo>,<dataserver>,<TopSpin 4.1.4>,
+      <End of interactive peak picking
+       data hash MD5: 1K
+       02 C0 21 00 AC 12 30 58 AB C0 FA D7 6B 69 70 A8>)
+##END=
+
+$$ hash MD5
+$$ FE E0 37 86 78 F1 F3 91 B2 E4 A4 D5 67 46 8C 05

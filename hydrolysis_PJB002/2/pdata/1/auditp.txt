@@ -1,0 +1,24 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 6
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= ells
+$$ /400SL/data/ells/nmr/20210330_prist_ecpc/2/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2021-03-30 14:56:19.545 -0400>,<ells>,<nmr50pri.chem.columbia.edu>,<go4>,<TopSpin 3.5.6>,
+      <acquisition in progress>)
+(   2,<2021-03-30 14:56:47.024 -0400>,<ells>,<nmr50pri.chem.columbia.edu>,<proc1d>,<TopSpin 3.5.6>,
+      <Start of raw data processing
+       efp LB = 1 FT_mod = 6 PKNL = 1 PHC0 = 54.96 PHC1 = 0 SI = 128K 
+       data hash MD5: 128K
+       02 1F 46 1A AB 24 C0 60 1E 3B B2 84 1F F8 B2 38>)
+$$ C:/Users/buitr/Marbella Team Dropbox/Lauren Marbella/Undergraduate Shared/Pablo Buitrago/DATA/NMR/hydrolysis_PJB002/2/pdata/1/auditp.txt
+(   3,<2024-10-30 14:23:43.855 -0400>,<buitr>,<Pablo-Lenovo>,<audit>,<TopSpin 4.1.4>,
+      <user comment:
+       TITLE=31P - 128 SCANS
+       1M KPF6 / ECPC / 0% H2OTITLE_END
+       data hash MD5: 128K
+       02 1F 46 1A AB 24 C0 60 1E 3B B2 84 1F F8 B2 38>)
+##END=
+
+$$ hash MD5
+$$ A5 E2 12 D6 84 60 FE 99 C4 0F 36 17 49 7B C5 07

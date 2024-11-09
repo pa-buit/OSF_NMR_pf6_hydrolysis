@@ -1,0 +1,17 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 6
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= buitrago
+$$ /400SL/data/buitrago/nmr/20230711_19f31p_hetcor/7/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2023-07-13 17:17:04.285 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<go4>,<TopSpin 3.5.6>,
+      <acquisition in progress>)
+(   2,<2023-07-13 17:31:05.861 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<proc2d>,<TopSpin 3.5.6>,
+      <Start of raw data processing
+       xfb F2: SI = 1K WDW = 4 SSB = 0 FT_mod = 6 PKNL = 1 PHC0 = 74.7 PHC1 = 0 F1: SI = 1K ME_mod = 2 NCOEF = 32 WDW = 4 SSB = 0 FT_mod = 6 FCOR = 0.5 PH_mod = 2
+       data hash MD5: 1K * 1K
+       E0 62 0D 30 58 5F B3 C0 CB 97 9B 93 FA 54 80 4D>)
+##END=
+
+$$ hash MD5
+$$ 2B 88 AF 30 7F 72 45 56 4A 4D 79 0C BA C2 25 C0

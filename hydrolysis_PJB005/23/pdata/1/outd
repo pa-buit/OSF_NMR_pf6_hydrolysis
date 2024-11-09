@@ -1,0 +1,16 @@
+##TITLE= Parameter file, TopSpin 3.5 pl 6
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= ells
+$$ 2024-04-08 10:18:52.376 -0400  ells@nmr50pri.chem.columbia.edu
+$$ /400SL/data/ells/nmr/20240306_KPF6_hydrolysis/23/pdata/1/outd
+$$ process /opt/topspin3.5pl6/prog/mod/edparproc
+##$CURPLOT= <¨BÜBèB>
+##$CURPRIN= <$1#1#0#1#1#1#1#1#0#-1#-1#1#-1>
+##$DFORMAT= <normdp>
+##$LAYOUT= <+/1D_BB.xwp>
+##$LFORMAT= <normlp>
+##$PFORMAT= <normpl>
+##END=

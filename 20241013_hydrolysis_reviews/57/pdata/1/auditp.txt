@@ -1,0 +1,37 @@
+##TITLE= Audit trail, TopSpin 4.1.4
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= buitr
+$$ C:/Users/buitr/Marbella Team Dropbox/Lauren Marbella/Undergraduate Shared/Pablo Buitrago/DATA/NMR/20241013_hydrolysis_reviews/57/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-10-23 20:12:42.561 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<go4>,<TopSpin 3.7.0>,
+      <created by zg on data set with UUID '129ecc48-9199-11ef-995c-40a6b7ca9ad0'
+       started at 2024-10-23 19:46:50.043 -0400,
+       POWCHK enabled, PULCHK disabled,
+       completed at 2024-10-23 20:12:42.560 -0400
+
+       configuration hash MD5:
+       A4 5C EB D7 88 1C 68 52 DD 88 41 41 45 1E C6 E7
+       data hash MD5: 256K
+       74 DF 16 74 6F 38 6D 80 C2 A0 9E E8 44 45 7E E4>)
+(   2,<2024-10-23 20:49:16.840 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <Start of raw data processing
+       em LB = 10 SI = 128K 
+       data hash MD5: 128K
+       3A CF F5 78 02 0E 5F D8 C0 B8 F6 B4 0A 5D 4B 98>)
+(   3,<2024-10-23 20:49:16.961 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <ft FT_mod = 6 PKNL = 1 SI = 128K 
+       data hash MD5: 128K
+       16 AC F1 41 3C BD A5 22 15 73 7B 68 67 85 02 58>)
+(   4,<2024-10-23 20:49:17.314 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <apk 
+       data hash MD5: 128K
+       CF ED 43 F9 65 01 8A 4E 0F 49 A0 3A 2E BE B8 7F>)
+(   5,<2024-10-23 20:49:17.399 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <abs n ABSG = 5 
+       data hash MD5: 128K
+       CE 9E 15 DF 23 80 31 CE 1B AA 20 AE DD A3 18 C7>)
+##END=
+
+$$ hash MD5
+$$ 64 6B E6 1A CA 36 F9 C1 76 69 87 C8 7A A7 3F 6C

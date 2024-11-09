@@ -1,0 +1,39 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 6
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= ells
+$$ /400SL/data/ells/nmr/20240306_KPF6_hydrolysis/28/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-07-24 17:34:07.927 -0400>,<ells>,<nmr50pri.chem.columbia.edu>,<go4>,<TopSpin 3.5.6>,
+      <created by zg
+	started at 2024-07-24 17:08:08.009 -0400,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       9D 3A BF 97 70 07 42 E6 47 13 FA 6D F6 04 5E 2E
+       data hash MD5: 256K
+       62 96 5E CF AB 68 31 D5 42 4A 88 74 23 28 9F E5>)
+(   2,<2024-07-24 18:14:31.631 -0400>,<ells>,<nmr50pri.chem.columbia.edu>,<proc1d>,<TopSpin 3.5.6>,
+      <Start of raw data processing
+       efp LB = 10 FT_mod = 6 PKNL = 1 PHC0 = 34.83492 PHC1 = 17.36717 SI = 128K 
+       data hash MD5: 128K
+       8A 43 A2 7F 8F B4 97 88 B3 17 9E F3 F2 45 3A 29>)
+$$ C:/Users/buitr/Marbella Team Dropbox/Lauren Marbella/Undergraduate Shared/Pablo Buitrago/DATA/NMR/hydrolysis_PJB005/28/pdata/1/auditp.txt
+(   3,<2024-08-15 21:02:53.589 -0400>,<buitr>,<Pablo-Lenovo>,<cprserver>,<TopSpin 4.1.4>,
+      <changed parameter F1 LB to 3.00>)
+(   4,<2024-08-15 21:02:54.208 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <Start of raw data processing
+       efp LB = 3 FT_mod = 6 PKNL = 1 PHC0 = 34.83492 PHC1 = 17.36717 SI = 128K 
+       data hash MD5: 128K
+       35 35 37 79 DB 51 BD 65 AE 96 2A 4F D1 AF 63 E8>)
+(   5,<2024-08-15 21:02:55.273 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <apk 
+       data hash MD5: 128K
+       9E CC AF BB 25 E6 61 77 5E 3E 5C 75 79 D2 91 B6>)
+(   6,<2024-08-15 21:02:56.135 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <abs n ABSG = 5 
+       data hash MD5: 128K
+       E4 86 76 12 B1 D1 2C C4 72 B4 D3 5C 59 85 D2 66>)
+##END=
+
+$$ hash MD5
+$$ C4 D5 5B 4D FD D7 B1 F2 BB 01 53 4A EC 47 F1 B1

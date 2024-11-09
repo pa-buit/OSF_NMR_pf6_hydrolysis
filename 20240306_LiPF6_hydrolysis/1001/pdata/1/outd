@@ -1,0 +1,16 @@
+##TITLE= Parameter file, TopSpin 4.1.4
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= buitr
+$$ 2024-05-20 14:15:13.357 -0400  buitr@Pablo-Lenovo
+$$ C:/Users/buitr/Marbella Team Dropbox/Lauren Marbella/Undergraduate Shared/Pablo Buitrago/DATA/NMR/20240306_LiPF6_hydrolysis/1001/pdata/1/outd
+$$ process C:\Bruker\TopSpin4.1.4\prog\mod\proc1d.exe
+##$CURPLOT= <hplj4500n>
+##$CURPRIN= <$hplj4500n>
+##$DFORMAT= <normdp>
+##$LAYOUT= <+/layouts.npt/NPT_19F_sensitivity_hcoil.xwp>
+##$LFORMAT= <normlp>
+##$PFORMAT= <normpl>
+##END=

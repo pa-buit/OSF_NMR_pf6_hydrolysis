@@ -1,0 +1,43 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 6
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= buitrago
+$$ /400SL/data/buitrago/nmr/20230526_hydrolysis/137/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2023-07-06 11:00:53.003 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<go4>,<TopSpin 3.5.6>,
+      <created by zg
+	started at 2023-07-06 10:35:00.567 -0400,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       C9 55 EE 94 C8 46 F4 CF EC 27 EF D9 14 8E 1C 16
+       data hash MD5: 256K
+       C5 D9 03 2E D3 AE 59 8B 4A 87 21 3F 2B 0D 0A 1D>)
+(   2,<2023-07-06 11:00:58.440 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<proc1d>,<TopSpin 3.5.6>,
+      <Start of raw data processing
+       efp LB = 10 FT_mod = 6 PKNL = 1 PHC0 = 27.85824 PHC1 = 26.6452 SI = 128K 
+       data hash MD5: 128K
+       F1 1E B6 28 BA CD F9 56 21 5B 6B 61 BA F4 95 33>)
+(   3,<2023-07-06 11:01:00.577 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<proc1d>,<TopSpin 3.5.6>,
+      <apk 
+       data hash MD5: 128K
+       0B 40 0F 6D 57 76 87 04 DB 8A 0B D4 85 64 09 60>)
+$$ C:/Users/buitr/Marbella Team Dropbox/Lauren Marbella (marbellalab)/Undergraduate Shared/Pablo Buitrago/DATA/NMR/hydrolysis_PJB006/137/pdata/1/auditp.txt
+(   4,<2024-04-14 19:54:00.898 -0400>,<buitr>,<Pablo-Lenovo>,<cprserver>,<TopSpin 4.1.4>,
+      <changed parameter F1 LB to 3.00>)
+(   5,<2024-04-14 19:54:01.721 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <Start of raw data processing
+       efp LB = 3 FT_mod = 6 PKNL = 1 PHC0 = 34.91355 PHC1 = 28.89166 SI = 128K 
+       data hash MD5: 128K
+       61 84 A2 9A B6 CA 00 2A 84 AA 3F F9 AF DB 6D C0>)
+(   6,<2024-04-14 19:54:02.662 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <apk 
+       data hash MD5: 128K
+       39 66 DC 4A 32 DB 24 76 85 96 FE A0 D6 05 46 18>)
+(   7,<2024-04-14 19:54:02.977 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <abs n ABSG = 5 
+       data hash MD5: 128K
+       C6 95 8D 6B C9 D4 67 1B B6 29 B2 2D C1 59 33 6F>)
+##END=
+
+$$ hash MD5
+$$ E2 23 43 F4 D8 31 A1 48 EA 9F 05 A1 B9 C2 26 93

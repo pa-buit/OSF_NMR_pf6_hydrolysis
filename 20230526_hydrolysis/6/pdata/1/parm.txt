@@ -1,0 +1,38 @@
+
+Current Data Parameters
+NAME     20230526_hydrolysis              
+EXPNO                 6              
+PROCNO                1              
+
+F2 - Acquisition Parameters
+Date_          20230609              
+Time              12.16 h            
+INSTRUM           spect              
+PROBHD   Z125339_0001 (              
+PULPROG            zg30              
+TD                65536              
+SOLVENT            DMSO              
+NS                   32              
+DS                    0              
+SWH          113636.367 Hz           
+FIDRES         3.467907 Hz           
+AQ            0.2883584 sec          
+RG                 40.3              
+DW                4.400 usec         
+DE                 6.50 usec         
+TE                299.9 K            
+D1          10.00000000 sec          
+TD0                   1              
+SFO1        376.4757763 MHz          
+NUC1                19F              
+P1                17.50 usec         
+PLW1        38.99399948 W            
+
+F2 - Processing parameters
+SI                65536              
+SF          376.4983662 MHz          
+WDW                  EM              
+SSB      0              
+LB                10.00 Hz           
+GB       0              
+PC                 1.00              

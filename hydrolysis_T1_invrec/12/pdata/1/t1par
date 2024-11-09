@@ -1,0 +1,46 @@
+##TITLE= Parameter file, TopSpin 4.1.4
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 57	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= buitr
+$$ 2024-10-19 20:47:25.064 -0400  buitr@Pablo-Lenovo
+$$ C:/Users/buitr/Marbella Team Dropbox/Lauren Marbella/Undergraduate Shared/Pablo Buitrago/DATA/NMR/hydrolysis_T1_invrec/12/pdata/1/t1par
+$$ process C:\Bruker\TopSpin4.1.4\prog\mod\dataserver.exe
+##$BIGDEL= 100
+##$CALCDN= yes
+##$COMPNO= 1
+##$CONV= 1e-05
+##$CURSOR= 1
+##$DRIFT= 5
+##$EDGUESS= 0
+##$EDPARM= 0
+##$FCTTYPE= 1
+##$FIDNUMB= 1
+##$FITT1T2= 0
+##$FITTYPE= 1
+##$GAMM= 10000
+##$GRADIEN= 1
+##$GUESSES= (0..23)
+1 1 1 1 1 1 1 1 1 1 1 1 0.1 0.1 0.1 1 1 1 1 1 1 1 1 1
+##$INC= 1
+##$INTRNG= 1
+##$LISTINC= 0.001
+##$LISTTYP= <vdlist>
+##$LITDEL= 10
+##$MAXPNTS= 10
+##$NUMPNTS= 10
+##$NUMTERM= 3
+##$PARM= (0..11)
+0.995486892129031 0.831941042932594 5.06257500646004 0 0 0 0 0 0 0 0 0
+##$PDTYP= <pd>
+##$REGIONS= 1
+##$SHOWINT= yes
+##$SHOWPP= yes
+##$SHOWTXT= 2
+##$START= 1
+##$X_END= 100
+##$X_START= 0.001
+##$Y_END= 8.397031e+10
+##$Y_START= -8.397031e+10
+##END=

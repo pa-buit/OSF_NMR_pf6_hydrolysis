@@ -1,0 +1,32 @@
+##TITLE= List of Points
+##JCAMPDX= 5.0
+##DATA TYPE= LINK
+##BLOCKS= 1	$$ is the number of fits or point lists
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= arbeli
+$$ 2023-06-23 09:23:20.723 -0400  arbeli@nmr50pri.chem.columbia.edu
+$$ /400SL/data/arbeli/nmr/23062023_AS_HF_standard/4/pdata/1/t1t2.dx
+##XUNITS= sec
+##YUNITS= a.u.
+##MINX=   1.000000e-03
+##MAXX=   2.000000e+01
+##MINY=  -1.000000e+00
+##MAXY=   1.000000e+00
+##TITLE= Peak No. 1 at -158.634 ppm, invrec, I[0] =  9.869e-01, A =  9.532e-02, T =    5.599m
+##JCAMP-DX= 5.0
+##DATA TYPE= Relaxation Data
+$$
+##$FITFKT= invrec(  9.869309e-01,   9.532248e-02,   5.599328e-03)
+$$
+##NPOINTS= 8
+##XYPOINTS= (XY..XY)
+ 1.000e-03,  8.295501e-01
+ 1.000e-02,  9.553890e-01
+ 1.000e-01,  9.612843e-01
+ 5.000e-01,  9.799853e-01
+ 1.000e+00,  9.896224e-01
+ 5.000e+00,  9.937755e-01
+ 1.000e+01,  9.969107e-01
+ 2.000e+01,  1.000000e+00
+##END= $$ End of List for Peak No. 1
+##END= $$ End of List of Points

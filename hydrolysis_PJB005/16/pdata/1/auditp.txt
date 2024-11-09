@@ -1,0 +1,26 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 6
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= ells
+$$ /400SL/data/ells/nmr/20240306_KPF6_hydrolysis/16/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-03-19 13:02:28.074 -0400>,<ells>,<nmr50pri.chem.columbia.edu>,<go4>,<TopSpin 3.5.6>,
+      <acquisition in progress>)
+(   2,<2024-03-19 13:04:04.849 -0400>,<ells>,<nmr50pri.chem.columbia.edu>,<proc1d>,<TopSpin 3.5.6>,
+      <Start of raw data processing
+       efp LB = 0.1 FT_mod = 6 PKNL = 1 PHC0 = 118.1281 PHC1 = -19.61101 SI = 64K 
+       data hash MD5: 64K
+       06 6D A3 3F 32 68 09 34 DF 65 7A 06 C3 89 0E C9>)
+$$ /Users/laurenmarbella/Marbella Team Dropbox/Lauren Marbella/Undergraduate Shared/Pablo Buitrago/DATA/NMR/hydrolysis_PJB005/16/pdata/1/auditp.txt
+(   3,<2024-10-30T11:40:38.918-0700>,<laurenmarbella>,<Laurens-MacBook-Pro-69.local>,<dataserver>,<TopSpin 4.3.0>,
+      <Spectrum calibrated, SF was set. Old value: 400.130003 New value: 400.129977. Peak list modified: Yes
+       data hash MD5: 64K
+       06 6D A3 3F 32 68 09 34 DF 65 7A 06 C3 89 0E C9>)
+(   4,<2024-10-30T11:40:38.920-0700>,<laurenmarbella>,<Laurens-MacBook-Pro-69.local>,<dataserver>,<TopSpin 4.3.0>,
+      <Spectrum calibrated, OFFSET was set. Old value: 16.180220 New value: 16.245356. Peak list modified: Yes
+       data hash MD5: 64K
+       06 6D A3 3F 32 68 09 34 DF 65 7A 06 C3 89 0E C9>)
+##END=
+
+$$ hash MD5
+$$ 7B 06 58 F3 E4 76 D1 54 FF A5 F4 51 47 60 03 BF

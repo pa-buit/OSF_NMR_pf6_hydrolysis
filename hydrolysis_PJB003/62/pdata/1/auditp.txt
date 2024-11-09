@@ -1,0 +1,47 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 6
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= buitrago
+$$ /400SL/data/buitrago/nmr/20230526_hydrolysis/62/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2023-06-21 17:34:25.850 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<go4>,<TopSpin 3.5.6>,
+      <created by zg
+	started at 2023-06-21 17:28:54.180 -0400,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       C9 55 EE 94 C8 46 F4 CF EC 27 EF D9 14 8E 1C 16
+       data hash MD5: 64K
+       FB EA C7 ED 81 71 F6 F4 FC BF 7B 30 05 EC F7 41>)
+(   2,<2023-06-21 17:34:38.472 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<proc1d>,<TopSpin 3.5.6>,
+      <Start of raw data processing
+       efp LB = 10 FT_mod = 6 PKNL = 1 PHC0 = 114.8561 PHC1 = -267.0675 SI = 64K 
+       data hash MD5: 64K
+       7C 21 88 52 05 F8 BE 06 8A E7 42 0C 0E C0 69 1E>)
+(   3,<2023-06-21 17:41:53.700 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<proc1d>,<TopSpin 3.5.6>,
+      <pk fgphup PHC0 = -0.2 PHC1 = 0 
+       data hash MD5: 64K
+       6F 0E 1E E7 2B 60 DF 4A C5 D0 1F FB 12 4E 1F 8E>)
+(   4,<2023-06-21 17:42:17.729 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<proc1d>,<TopSpin 3.5.6>,
+      <pk fgphup PHC0 = 0.4 PHC1 = 0 
+       data hash MD5: 64K
+       D4 17 45 36 3E 39 EA 91 1C D6 E6 66 34 D9 E0 D2>)
+(   5,<2023-06-23 16:39:13.060 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<audit>,<TopSpin 3.5.6>,
+      <user comment:
+       TITLE=PJB003
+       19F
+       1M NaPF6 / ECPC / 1.5% H2O
+       t0 = June 14, 11:45TITLE_END
+       data hash MD5: 64K
+       D4 17 45 36 3E 39 EA 91 1C D6 E6 66 34 D9 E0 D2>)
+(   6,<2023-06-23 16:39:13.333 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<audit>,<TopSpin 3.5.6>,
+      <user comment:
+       TITLE=PJB003
+       19F
+       1M NaPF6 / ECPC / 1.5% H2O
+       t0 = June 14, 11:45TITLE_END
+       data hash MD5: 64K
+       D4 17 45 36 3E 39 EA 91 1C D6 E6 66 34 D9 E0 D2>)
+##END=
+
+$$ hash MD5
+$$ DA 95 1D 59 48 F8 6F 0C 6A DE 4B 69 96 E3 DA FB

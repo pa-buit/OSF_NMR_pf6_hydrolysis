@@ -1,0 +1,27 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 6
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= arbeli
+$$ /400SL/data/arbeli/nmr/23062023_AS_HF_standard/6/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2023-06-23 09:31:36.588 -0400>,<arbeli>,<nmr50pri.chem.columbia.edu>,<go4>,<TopSpin 3.5.6>,
+      <created by zg
+	started at 2023-06-23 09:26:47.148 -0400,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       C9 55 EE 94 C8 46 F4 CF EC 27 EF D9 14 8E 1C 16
+       data hash MD5: 172K * 10
+       06 5A 07 28 C9 4A 2B 6C EA 90 DE B8 63 66 BC 2C>)
+(   2,<2023-06-23 09:31:39.887 -0400>,<arbeli>,<nmr50pri.chem.columbia.edu>,<proc2d>,<TopSpin 3.5.6>,
+      <Start of raw data processing
+       xf2 F2: TDoff = 32 SI = 64K WDW = 1 LB = 3 FT_mod = 6 PKNL = 1 PHC0 = -64.50141 PHC1 = -751.6 F1: SI = 16 MC2 = 0
+       data hash MD5: 64K * 16
+       BB C8 9A 6F 65 7E 07 6C 63 0F D3 4F 61 F9 C4 92>)
+(   3,<2023-06-23 09:31:59.291 -0400>,<arbeli>,<nmr50pri.chem.columbia.edu>,<proc2d>,<TopSpin 3.5.6>,
+      <pk2 fgphup F2: PHC0 = 0 PHC1 = 0
+       data hash MD5: 64K * 16
+       BB C8 9A 6F 65 7E 07 6C 63 0F D3 4F 61 F9 C4 92>)
+##END=
+
+$$ hash MD5
+$$ 55 E9 B3 B0 23 84 02 DC 1E C6 4C D1 87 E6 21 8A

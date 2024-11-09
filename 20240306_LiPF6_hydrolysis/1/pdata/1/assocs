@@ -1,0 +1,11 @@
+##TITLE= Parameter file, TopSpin 3.6.2
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= ells
+$$ 2024-03-06 14:49:55.916 -0500  ells@nmr28.chem.columbia.edu
+$$ /500asc/data/ells/nmr/20240306_LiPF6_hydrolysis/1/pdata/1/assocs
+$$ process /opt/topspin3.6.2/prog/mod/dataserver
+##$MULTDISP= <>
+##END=

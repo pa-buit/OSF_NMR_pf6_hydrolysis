@@ -1,0 +1,52 @@
+##TITLE= Audit trail, TopSpin 3.7.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= buitrago
+$$ /400SL/data/buitrago/nmr/20241013_hydrolysis_reviews/76/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-10-27 15:21:33.243 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<go4>,<TopSpin 3.7.0>,
+      <created by zg on data set with UUID '465165da-9498-11ef-a539-40a6b7ca9ad0'
+       started at 2024-10-27 15:18:40.766 -0400,
+       POWCHK enabled, PULCHK disabled,
+       completed at 2024-10-27 15:21:33.242 -0400
+
+       configuration hash MD5:
+       A4 5C EB D7 88 1C 68 52 DD 88 41 41 45 1E C6 E7
+       data hash MD5: 64K
+       BB 70 48 E9 78 DE C7 9D D6 32 B8 22 A8 5E 55 D8>)
+(   2,<2024-10-27 15:22:08.132 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<proc1d>,<TopSpin 3.7.0>,
+      <Start of raw data processing
+       efp LB = 0.1 FT_mod = 6 PKNL = 1 PHC0 = 119.7434 PHC1 = -20.70195 SI = 64K 
+       data hash MD5: 64K
+       4A FF B3 AC 5F EC 55 E5 24 C3 C6 44 7D FA 1E 30>)
+(   3,<2024-10-27 15:22:09.030 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<proc1d>,<TopSpin 3.7.0>,
+      <apk 
+       data hash MD5: 64K
+       4A FF B3 AC 5F EC 55 E5 24 C3 C6 44 7D FA 1E 30>)
+(   4,<2024-10-27 15:22:09.595 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<proc1d>,<TopSpin 3.7.0>,
+      <abs ABSG = 5 
+       data hash MD5: 64K
+       92 39 8B 77 BF FD C8 10 C6 A5 66 1D E6 E2 22 DD>)
+(   5,<2024-10-27 15:22:11.887 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<proc1d>,<TopSpin 3.7.0>,
+      <abs n ABSG = 5 
+       data hash MD5: 64K
+       09 E8 2D DB 77 7E BF EF 53 6B 4B 50 8B BD 75 2A>)
+(   6,<2024-10-27 15:22:22.086 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<dataserver>,<TopSpin 3.7.0>,
+      <INTEGRAL 2024-10-27 15:22:21.072 -0400
+       DELETE [8.686;7.851]
+       data hash MD5: 64K
+       09 E8 2D DB 77 7E BF EF 53 6B 4B 50 8B BD 75 2A>)
+(   7,<2024-10-27 15:22:22.088 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<dataserver>,<TopSpin 3.7.0>,
+      <INTEGRAL 2024-10-27 15:22:21.072 -0400
+       DELETE [5.401;2.912]
+       data hash MD5: 64K
+       09 E8 2D DB 77 7E BF EF 53 6B 4B 50 8B BD 75 2A>)
+(   8,<2024-10-27 15:22:22.089 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<dataserver>,<TopSpin 3.7.0>,
+      <INTEGRAL 2024-10-27 15:22:21.072 -0400
+       DELETE [1.479;0.366]
+       data hash MD5: 64K
+       09 E8 2D DB 77 7E BF EF 53 6B 4B 50 8B BD 75 2A>)
+##END=
+
+$$ hash MD5
+$$ 49 2E DF A3 59 9A A5 A3 3C D1 EE 4D DC DD FB A4

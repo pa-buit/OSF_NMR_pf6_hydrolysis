@@ -1,0 +1,78 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 6
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= buitrago
+$$ /400SL/data/buitrago/nmr/20230526_hydrolysis/100/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2023-06-25 14:21:51.639 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<go4>,<TopSpin 3.5.6>,
+      <created by zg
+	started at 2023-06-25 13:55:59.218 -0400,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       C9 55 EE 94 C8 46 F4 CF EC 27 EF D9 14 8E 1C 16
+       data hash MD5: 256K
+       36 D3 31 8C D1 87 9F EE A9 F1 25 0E E7 E6 56 58>)
+(   2,<2023-07-05 15:10:28.380 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<proc1d>,<TopSpin 3.5.6>,
+      <Start of raw data processing
+       efp LB = 10 FT_mod = 6 PKNL = 1 PHC0 = 67.49595 PHC1 = -12.65456 SI = 128K 
+       data hash MD5: 128K
+       F0 EF 5D F1 A2 CB 90 70 59 1F 0F 60 90 5B C9 ED>)
+$$ C:/Users/buitr/Marbella Team Dropbox/Lauren Marbella (marbellalab)/Undergraduate Shared/Pablo Buitrago/DATA/NMR/hydrolysis_PJB009/100/pdata/1/auditp.txt
+(   3,<2024-04-15 13:36:49.904 -0400>,<buitr>,<Pablo-Lenovo>,<cprserver>,<TopSpin 4.1.4>,
+      <changed parameter F1 LB to 1.00>)
+(   4,<2024-04-15 13:36:51.812 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <Start of raw data processing
+       efp LB = 1 FT_mod = 6 PKNL = 1 PHC0 = 67.49595 PHC1 = -12.65456 SI = 128K 
+       data hash MD5: 128K
+       D1 BD CE EF 61 18 4D F9 B9 10 B3 88 65 D0 2A 95>)
+$$ C:/Users/buitr/Marbella Team Dropbox/Lauren Marbella/Undergraduate Shared/Pablo Buitrago/DATA/NMR/hydrolysis_PJB009/100/pdata/1/auditp.txt
+(   5,<2024-08-14 22:40:13.763 -0400>,<buitr>,<Pablo-Lenovo>,<cprserver>,<TopSpin 4.1.4>,
+      <changed parameter F1 LB to 10.00>)
+(   6,<2024-08-14 22:40:14.907 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <Start of raw data processing
+       efp LB = 10 FT_mod = 6 PKNL = 1 PHC0 = 67.49595 PHC1 = -12.65456 SI = 128K 
+       data hash MD5: 128K
+       F0 EF 5D F1 A2 CB 90 70 59 1F 0F 60 90 5B C9 ED>)
+(   7,<2024-08-14 22:40:16.706 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <apk 
+       data hash MD5: 128K
+       11 EB 55 D6 F7 F8 FB 61 84 07 D0 FA 24 81 55 55>)
+(   8,<2024-08-14 22:40:17.462 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <abs n ABSG = 5 
+       data hash MD5: 128K
+       8E 1E 3C FA A5 6B D8 2A F0 33 1A BB E4 6F 60 4E>)
+(   9,<2024-08-14 22:40:46.852 -0400>,<buitr>,<Pablo-Lenovo>,<cprserver>,<TopSpin 4.1.4>,
+      <changed parameter F1 LB to 3.00>)
+(  10,<2024-08-14 22:40:47.555 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <Start of raw data processing
+       efp LB = 3 FT_mod = 6 PKNL = 1 PHC0 = 51.88893 PHC1 = 5.338408 SI = 128K 
+       data hash MD5: 128K
+       2E 4A 8D 6D 1D A4 96 8F 0A 6F 12 25 79 B3 97 9D>)
+(  11,<2024-08-14 22:40:48.523 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <apk 
+       data hash MD5: 128K
+       83 12 1B C7 C1 CD 61 09 6A EB FB FE 69 CA B7 BD>)
+(  12,<2024-08-14 22:40:49.169 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <abs n ABSG = 5 
+       data hash MD5: 128K
+       71 5B D2 57 ED E0 43 8B 6E 90 8E 14 0C EF A1 79>)
+(  13,<2024-08-14 22:53:35.374 -0400>,<buitr>,<Pablo-Lenovo>,<dataserver>,<TopSpin 4.1.4>,
+      <INTEGRAL SPLIT [-142.745;-144.417] [-144.417;-147.287]
+       data hash MD5: 128K
+       71 5B D2 57 ED E0 43 8B 6E 90 8E 14 0C EF A1 79>)
+(  14,<2024-08-14 22:53:35.454 -0400>,<buitr>,<Pablo-Lenovo>,<dataserver>,<TopSpin 4.1.4>,
+      <INTEGRAL DEFINE [-142.745;-147.287]
+       data hash MD5: 128K
+       71 5B D2 57 ED E0 43 8B 6E 90 8E 14 0C EF A1 79>)
+(  15,<2024-08-14 22:54:41.763 -0400>,<buitr>,<Pablo-Lenovo>,<dataserver>,<TopSpin 4.1.4>,
+      <INTEGRAL DEFINE [-123.378;-169.206]
+       data hash MD5: 128K
+       71 5B D2 57 ED E0 43 8B 6E 90 8E 14 0C EF A1 79>)
+(  16,<2024-08-14 22:54:41.779 -0400>,<buitr>,<Pablo-Lenovo>,<dataserver>,<TopSpin 4.1.4>,
+      <INTEGRAL DEFINE [-6.770;-27.714]
+       data hash MD5: 128K
+       71 5B D2 57 ED E0 43 8B 6E 90 8E 14 0C EF A1 79>)
+##END=
+
+$$ hash MD5
+$$ B2 AF 17 11 9B 86 A7 C9 B6 27 39 A3 53 BD 3C 60

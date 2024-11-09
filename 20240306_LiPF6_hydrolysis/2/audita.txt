@@ -1,0 +1,18 @@
+##TITLE= Audit trail, TopSpin 3.6.2
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= ells
+$$ /500asc/data/ells/nmr/20240306_LiPF6_hydrolysis/2/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-03-06 14:49:46.477 -0500>,<ells>,<nmr28.chem.columbia.edu>,<go4>,<TopSpin 3.6.2>,
+      <created by zg
+	started at 2024-03-06 14:38:19.011 -0500,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       F7 70 1F 48 28 4D 03 D0 86 BD 95 64 2A 04 63 43
+       data hash MD5: 208322
+       0C FB 4E 5E 76 A3 87 5A D4 47 F6 CF C7 79 F8 67>)
+##END=
+
+$$ hash MD5
+$$ AB 16 C9 ED 30 B2 8B 8C C6 6F C2 DC CB 3C C1 D1

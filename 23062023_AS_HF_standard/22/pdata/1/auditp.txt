@@ -1,0 +1,17 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 6
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= arbeli
+$$ /400SL/data/arbeli/nmr/23062023_AS_HF_standard/22/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2023-07-06 12:07:17.933 -0400>,<arbeli>,<nmr50pri.chem.columbia.edu>,<go4>,<TopSpin 3.5.6>,
+      <acquisition in progress>)
+(   2,<2023-07-06 12:08:54.917 -0400>,<arbeli>,<nmr50pri.chem.columbia.edu>,<proc1d>,<TopSpin 3.5.6>,
+      <Start of raw data processing
+       efp LB = 3 FT_mod = 6 PKNL = 1 PHC0 = -37.50141 PHC1 = -751.6 SI = 64K 
+       data hash MD5: 64K
+       B1 D1 D9 78 5D CE 86 16 FB 5C CF B5 47 AA BC 37>)
+##END=
+
+$$ hash MD5
+$$ 20 5E D0 41 C1 3B ED 76 8B C9 16 EF A9 6B 59 96

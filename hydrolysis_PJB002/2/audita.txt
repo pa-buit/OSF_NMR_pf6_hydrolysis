@@ -1,0 +1,18 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 6
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= ells
+$$ /400SL/data/ells/nmr/20210330_prist_ecpc/2/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2021-03-30 14:59:50.062 -0400>,<ells>,<nmr50pri.chem.columbia.edu>,<go4>,<TopSpin 3.5.6>,
+      <created by zg
+	started at 2021-03-30 14:56:19.546 -0400,
+	POWCHK disabled, PULCHK disabled,
+       configuration hash MD5:
+       48 6A D4 D9 44 12 58 D5 4E A6 76 3F A8 9B 13 74
+       data hash MD5: 64K
+       BF 04 40 6B 2E 3A 9E 10 CE 57 DF 59 86 4F DA 33>)
+##END=
+
+$$ hash MD5
+$$ CD 4C 98 B5 95 EB 92 FB 5A FF 45 9A 56 09 F0 2F

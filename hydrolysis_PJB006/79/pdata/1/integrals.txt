@@ -1,0 +1,5 @@
+   Current data set:
+   NAME =	20230526_hydrolysis	EXPNO =	79	PROCNO = 1
+   DU   =	/400SL/data/buitrago/nmr
+
+   Number   Integrated Region     Integral

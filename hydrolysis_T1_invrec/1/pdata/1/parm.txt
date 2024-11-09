@@ -1,0 +1,57 @@
+
+Current Data Parameters
+NAME     20241017_T1_PJB006              
+EXPNO                 1              
+PROCNO                1              
+
+F2 - Acquisition Parameters
+Date_          20241017              
+Time              16.53 h            
+INSTRUM           spect              
+PROBHD   Z125339_0001 (              
+PULPROG            t1ir              
+TD              1585152              
+SOLVENT            DMSO              
+NS                    4              
+DS                    0              
+SWH          166666.672 Hz           
+FIDRES         0.210285 Hz           
+AQ            4.7554560 sec          
+RG                   18              
+DW                3.000 usec         
+DE                 6.50 usec         
+TE                300.0 K            
+D1           3.00000000 sec          
+D11          0.03000000 sec          
+VDLIST   t1_60s_12inc.as              
+vd           0.00001000 sec          
+SFO1        376.4702267 MHz          
+NUC1                19F              
+P1                13.15 usec         
+P2                26.30 usec         
+PLW1        40.00000000 W            
+
+F1 - Acquisition parameters
+TD                   11              
+SFO1           400.1319 MHz          
+FIDRES       727.272705 Hz           
+SW                9.997 ppm          
+FnMODE               QF              
+
+F2 - Processing parameters
+SI                65536              
+SF          376.4983662 MHz          
+WDW                  EM              
+SSB      0              
+LB                 3.00 Hz           
+GB       0              
+PC                 1.00              
+
+F1 - Processing parameters
+SI                   32              
+MC2                  QF              
+SF          400.1300000 MHz          
+WDW                SINE              
+SSB      0              
+LB       0 Hz           
+GB       0              

@@ -1,0 +1,56 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 6
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= buitrago
+$$ /400SL/data/buitrago/nmr/20241017_T1_PJB006/7/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-10-18 18:04:05.082 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<go4>,<TopSpin 3.5.6>,
+      <acquisition in progress>)
+(   2,<2024-10-18 18:23:24.512 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<proc2d>,<TopSpin 3.5.6>,
+      <Start of raw data processing
+       xf2 F2: TDoff = 32 SI = 64K WDW = 1 LB = 3 FT_mod = 6 PKNL = 1 PHC0 = -143.7392 PHC1 = -6608 F1: SI = 32
+       data hash MD5: 64K * 32
+       32 4B 29 D4 76 AF 12 31 08 2C 64 A3 3C A0 56 3A>)
+(   3,<2024-10-18 18:25:25.149 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<audit>,<TopSpin 3.5.6>,
+      <user comment:
+       TITLE=PJB006
+       19F T1 inversion recovery
+       d1 = 8s
+       o1p=-188.4 centered between two peaks
+       I think I may have macroed 'start', not 'zg'. Compare rg to expno 6TITLE_END
+       data hash MD5: 64K * 32
+       32 4B 29 D4 76 AF 12 31 08 2C 64 A3 3C A0 56 3A>)
+(   4,<2024-10-18 18:25:25.357 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<audit>,<TopSpin 3.5.6>,
+      <user comment:
+       TITLE=PJB006
+       19F T1 inversion recovery
+       d1 = 8s
+       o1p=-188.4 centered between two peaks
+       I think I may have macroed 'start', not 'zg'. Compare rg to expno 6TITLE_END
+       data hash MD5: 64K * 32
+       32 4B 29 D4 76 AF 12 31 08 2C 64 A3 3C A0 56 3A>)
+(   5,<2024-10-18 18:25:53.762 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<audit>,<TopSpin 3.5.6>,
+      <user comment:
+       TITLE=PJB006
+       19F T1 inversion recovery
+       d1 = 8s
+       o1p=-188.4 centered between two peaksTITLE_END
+       data hash MD5: 64K * 32
+       32 4B 29 D4 76 AF 12 31 08 2C 64 A3 3C A0 56 3A>)
+(   6,<2024-10-18 18:25:54.245 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<audit>,<TopSpin 3.5.6>,
+      <user comment:
+       TITLE=PJB006
+       19F T1 inversion recovery
+       d1 = 8s
+       o1p=-188.4 centered between two peaksTITLE_END
+       data hash MD5: 64K * 32
+       32 4B 29 D4 76 AF 12 31 08 2C 64 A3 3C A0 56 3A>)
+$$ C:/Users/buitr/Marbella Team Dropbox/Lauren Marbella/Undergraduate Shared/Pablo Buitrago/DATA/NMR/hydrolysis_T1_invrec/7/pdata/1/auditp.txt
+(   7,<2024-10-18 22:06:51.895 -0400>,<buitr>,<Pablo-Lenovo>,<proc2d>,<TopSpin 4.1.4>,
+      <pk2 fgphup F2: PHC0 = 0 PHC1 = 0
+       data hash MD5: 64K * 32
+       32 4B 29 D4 76 AF 12 31 08 2C 64 A3 3C A0 56 3A>)
+##END=
+
+$$ hash MD5
+$$ 98 C4 CF 56 FF A1 36 A0 77 24 A0 FF 92 22 B0 7E

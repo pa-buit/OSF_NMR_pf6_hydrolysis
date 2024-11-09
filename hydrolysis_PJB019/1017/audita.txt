@@ -1,0 +1,24 @@
+##TITLE= Audit trail, TopSpin 4.1.4
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= buitr
+$$ C:/Users/buitr/Marbella Team Dropbox/Lauren Marbella/Undergraduate Shared/Pablo Buitrago/DATA/NMR/hydrolysis_PJB019/1017/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-10-31 15:18:17.924 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<go4>,<TopSpin 3.7.0>,
+      <created by zg on data set with UUID '1c91be30-97bc-11ef-a6e7-40a6b7ca9ad0'
+       started at 2024-10-31 15:12:46.090 -0400,
+       POWCHK enabled, PULCHK disabled,
+       completed at 2024-10-31 15:18:17.923 -0400
+
+       configuration hash MD5:
+       A4 5C EB D7 88 1C 68 52 DD 88 41 41 45 1E C6 E7
+       data hash MD5: 64K
+       14 93 90 02 CC 65 54 36 85 3A 63 D4 23 AA D2 98>)
+(   2,<2024-10-31 17:04:15.201 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <convdta from       113 "hydrolysis_PJB019" "C:/Users/buitr/Marbella Team Dropbox/Lauren Marbella/Undergraduate Shared/Pablo Buitrago/DATA/NMR"
+       data hash MD5: 65400
+       4C 1D 8D 00 56 A1 0A 66 37 91 F1 51 23 F1 00 5F>)
+##END=
+
+$$ hash MD5
+$$ 96 76 64 80 C5 75 EE FC 3E AD FF 83 1A 1B 10 83

@@ -1,0 +1,78 @@
+##TITLE= Audit trail, TopSpin 4.1.4
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= buitr
+$$ C:/Users/buitr/Marbella Team Dropbox/Lauren Marbella/Undergraduate Shared/Pablo Buitrago/DATA/NMR/hydrolysis_PJB019/1012/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-10-27 15:34:08.460 -0400>,<buitrago>,<nmr50pri.chem.columbia.edu>,<go4>,<TopSpin 3.7.0>,
+      <created by zg on data set with UUID 'a97c97e6-9499-11ef-b65f-40a6b7ca9ad0'
+       started at 2024-10-27 15:28:36.637 -0400,
+       POWCHK enabled, PULCHK disabled,
+       completed at 2024-10-27 15:34:08.459 -0400
+
+       configuration hash MD5:
+       A4 5C EB D7 88 1C 68 52 DD 88 41 41 45 1E C6 E7
+       data hash MD5: 64K
+       D0 8A C3 DC 7E 07 82 03 7F C9 01 73 B8 96 1F E6>)
+(   2,<2024-10-27 15:38:19.360 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <convdta from       77 "hydrolysis_PJB019" "C:/Users/buitr/Marbella Team Dropbox/Lauren Marbella/Undergraduate Shared/Pablo Buitrago/DATA/NMR"
+       data hash MD5: 65400
+       2A EA 5D A5 F3 F2 CF 9B 6F BE A8 2B 50 35 DA 6B>)
+(   3,<2024-10-27 15:38:20.039 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <Start of raw data processing
+       em LB = 10 SI = 64K 
+       data hash MD5: 64K
+       A5 D6 9F 1B 45 7A 4B 8C BB C6 F0 1C 06 E5 1D 14>)
+(   4,<2024-10-27 15:38:20.263 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <ft FT_mod = 6 PKNL = 1 SI = 64K 
+       data hash MD5: 64K
+       15 A8 94 CE 4F 5E 9B 9E BC 90 43 CD 0F 3C D5 CC>)
+(   5,<2024-10-27 15:38:20.935 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <apk 
+       data hash MD5: 64K
+       38 17 5C CF 9D 21 FE C5 65 E7 2F CB A6 3E 0B 38>)
+(   6,<2024-10-27 15:38:21.144 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <abs n ABSG = 5 
+       data hash MD5: 64K
+       B9 57 48 B3 FD 2C 11 96 83 80 DB FE 21 AD A8 E2>)
+(   7,<2024-10-27 15:38:22.031 -0400>,<buitr>,<Pablo-Lenovo>,<cprserver>,<TopSpin 4.1.4>,
+      <changed parameter F1 ME_mod to LPbr>)
+(   8,<2024-10-27 15:38:25.143 -0400>,<buitr>,<Pablo-Lenovo>,<cprserver>,<TopSpin 4.1.4>,
+      <changed parameter F1 TDoff to 100>)
+(   9,<2024-10-27 15:38:26.882 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <Start of raw data processing
+       efp ME_mod = 4 NCOEF = 1024 TDoff = 100 LB = 10 FT_mod = 6 PKNL = 1 PHC0 = -37.99266 PHC1 = 49.77259 SI = 64K 
+       data hash MD5: 64K
+       68 13 D0 AE A6 CC BE 86 69 AA DA B7 28 BD 2C A9>)
+(  10,<2024-10-27 15:38:38.391 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <pk fgphup PHC0 = -144.6499 PHC1 = -412.8 
+       data hash MD5: 64K
+       49 7A 1F 85 BB 14 68 51 E5 2E CC 90 6A 36 13 5F>)
+(  11,<2024-10-27 15:38:40.946 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <apk 
+       data hash MD5: 64K
+       B6 F0 E5 9F C4 3F 00 F9 5D 2E 64 EC 6D 27 FF 7A>)
+(  12,<2024-10-27 15:38:42.237 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <abs n ABSG = 5 
+       data hash MD5: 64K
+       2F 6A 47 F6 82 0D 39 0D EE 7A E0 05 34 D9 D9 21>)
+(  13,<2024-10-27 15:39:05.730 -0400>,<buitr>,<Pablo-Lenovo>,<proc1d>,<TopSpin 4.1.4>,
+      <abs ABSG = 5 
+       data hash MD5: 64K
+       47 8F 3D 62 AF BA 3A CD 7C F7 14 CF 9F CD 49 EF>)
+(  14,<2024-10-27 16:24:42.174 -0400>,<buitr>,<Pablo-Lenovo>,<dataserver>,<TopSpin 4.1.4>,
+      <INTEGRAL DELETE [-70.450;-77.211]
+       data hash MD5: 64K
+       47 8F 3D 62 AF BA 3A CD 7C F7 14 CF 9F CD 49 EF>)
+(  15,<2024-10-27 16:24:42.205 -0400>,<buitr>,<Pablo-Lenovo>,<dataserver>,<TopSpin 4.1.4>,
+      <INTEGRAL DELETE [-77.215;-89.908]
+       data hash MD5: 64K
+       47 8F 3D 62 AF BA 3A CD 7C F7 14 CF 9F CD 49 EF>)
+(  16,<2024-10-27 16:24:42.221 -0400>,<buitr>,<Pablo-Lenovo>,<dataserver>,<TopSpin 4.1.4>,
+      <INTEGRAL DELETE [-176.311;-205.998]
+       data hash MD5: 64K
+       47 8F 3D 62 AF BA 3A CD 7C F7 14 CF 9F CD 49 EF>)
+##END=
+
+$$ hash MD5
+$$ ED E5 FC 47 70 0C CD C5 DB 0E 70 A7 A7 88 F0 FB
