@@ -16,8 +16,3 @@ We have chosen not to change the folder names in order to allow interested reade
 "hydrlysis_T1_invrec" has the T1 inversion recovery experiments run on PJB006, PJB003 and PJB005 discussed in the Methods section of the main text.
 
 Data used in Figure S3 (thermal experiments - Drew) is nowhere to be found
-
-"20230710_hydrolysis_5vp" contains nothing relevant to this paper...?
-"20240322_ECPC_hydrolysis" contains a scan of neat ECPC + 1.5v% H2O. This spectrum is not directly discussed in the paper. 
-"hydrolysis_pjb009" contains NMR spectra for a 1M NaPF6 in EC:PC + sat. NaF. These experiments are not discussed in the paper.
-"hydrolysis_pjb017" contains NMR spectra for a new 1M LiPF6 in EC:PC + 1.5v% H2O sample created and analyzed in October/November 2024. The sample was contaminated on creation and discarded.
