@@ -1,0 +1,5 @@
+The NMR datasets retain the names used in Topspin, which are categorized by 
+experiment date (YYYYMMDD) and/or sample (PJBXXX). Given that these designations
+may be obscure to the reader, this READ_ME serves as a guide to "translate"
+these folder designations and connect them to data and figures in our paper.
+
