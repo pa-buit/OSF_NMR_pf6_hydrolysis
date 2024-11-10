@@ -14,5 +14,3 @@ We have chosen not to change the folder names in order to allow interested reade
 "hydrolysis_PJB006" contains NMR spectra for a 1M LiPF6 in EC:PC + 1.5v% H2O  sample created and analzyed mostly in June/July 2023. PJB006 data is used in Figure 1, Figure 2, Figure 3, Figure S1, and Figure S5, Figure S7, Figure S8, Figure S9, and Figure S10
 "hydrolysis_PJB019" contains NMR spectra for a new 1M LiPF6 in EC:PC + 1.5v% H2O sample created and analyzed in October/November 2024. PJB019 data is used in Figure 4, Figures S11, Figure S12, and Figure S13. 
 "hydrlysis_T1_invrec" has the T1 inversion recovery experiments run on PJB006, PJB003 and PJB005 discussed in the Methods section of the main text.
-
-Data used in Figure S3 (thermal experiments - Drew) is nowhere to be found
