@@ -1,5 +1,23 @@
-The NMR datasets retain the names used in Topspin, which are categorized by 
-experiment date (YYYYMMDD) and/or sample (PJBXXX). Given that these designations
-may be obscure to the reader, this READ_ME serves as a guide to "translate"
-these folder designations and connect them to data and figures in our paper.
+The NMR datasets retain the names used in Topspin, which are categorized by experiment date (YYYYMMDD) and/or sample (PJBXXX). Given that these designations may be obscure to the reader, this READ_ME serves as a guide to "translate" these folder designations and connect them to data and figures in our paper. 
+We have chosen not to change the folder names in order to allow interested readers to download the NMR folders and directly use the python script pf6_hydrolysis.py to analyze data. 
 
+"20230526_hydrolysis" contains miscellaneous experiments run before October 2024. Note that although the folder date is May 2023, this refers only to the date the project started, and is not an upper limit on timestamps for experiments in this folder. This folder contains 1H-coupled 31P experiments run on a 1M LiPF6 in EC:PC + 1.5v% sample after multiple months (PJB006, see below) which is used in Figure 3. 
+"20230711_19f31p_hetcor" contains various iterations of 19F-31P HMQC experiments which were setup up and run on PJB006 (see below). The final 19F-31P HMQC is used in Figure 3.
+"20240306_LiPF6_hydrolysis" contains NMR spectra for a 1M LiPF6 in EC:PC + 200ppm H2O sample created in December 2023 and analyzed in March 2024. Data from this sample is used in Figure S15
+"20240531_KPF6_HCl_hydrolysis" contains NMR spectra for a 1M KPF6 in EC:PC + 1.5v% 37% HCl sample created and analyzed in May 2024. Data from this sample is used in Figure 5.
+"20240724_NaPF6_HCl_hydrolysis" contains NMR spectra for a 1M NaPF6 in EC:PC + 1.5v% 37% HCl sample created and analyzed in July 2024. Data from this sample is used in Figure 5. 
+"20241013_hydrolysis_reviews" contains miscellaneous experiments run in October/November 2024. These include pristine (0% H2O) samples made to pair with October/November 2024 samples, as well as a 1M NaPF6 in EC:C + 200ppm H2O sample analyzed in Figure S14
+"23062023_AS_HF_standard" contains experiments analyzed in Figure S6. Note this folder has a different date scheme (DDMMYYYY)
+"hydrolysis_PJB002" contains NMR spectra for a 1M KPF6 in EC:PC + 1.5v% H2O sample created and analyzed in June/July 2023.
+"hydrolysis_PJB003" contains NMR spectra for a new 1M KPF6 in EC:PC + 1.5v% H2O sample created and analyzed in June/July 2023. PJB003 data is used in Figure 1, Figure S5, 
+"hydrolysis_PJB005" contains NMR spectra for a new 1M KPF6 in EC:PC + 1.5v% H2O sample with higher time-resolution, created and analyzed in March/April 2024. PJB005 data is used in Figure 1, Figure S2, Figure S4, Figure S5, 
+"hydrolysis_PJB006" contains NMR spectra for a 1M LiPF6 in EC:PC + 1.5v% H2O  sample created and analzyed mostly in June/July 2023. PJB006 data is used in Figure 1, Figure 2, Figure 3, Figure S1, and Figure S5, Figure S7, Figure S8, Figure S9, and Figure S10
+"hydrolysis_PJB019" contains NMR spectra for a new 1M LiPF6 in EC:PC + 1.5v% H2O sample created and analyzed in October/November 2024. PJB019 data is used in Figure 4, Figures S11, Figure S12, and Figure S13. 
+"hydrlysis_T1_invrec" has the T1 inversion recovery experiments run on PJB006, PJB003 and PJB005 discussed in the Methods section of the main text.
+
+Data used in Figure S3 (thermal experiments - Drew) is nowhere to be found
+
+"20230710_hydrolysis_5vp" contains nothing relevant to this paper...?
+"20240322_ECPC_hydrolysis" contains WHAT?? Do we analyze it at all?
+"hydrolysis_pjb009" contains NMR spectra for a 1M NaPF6 in EC:PC + sat. NaF. These experiments are not discussed in the paper.
+"hydrolysis_pjb017" contains NMR spectra for a new 1M LiPF6 in EC:PC + 1.5v% H2O sample created and analyzed in October/November 2024. The sample was contaminated on creation and discarded.
