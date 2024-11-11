@@ -1,0 +1,31 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 6
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= ells
+$$ /400SL/data/ells/nmr/20230403_aged_electrolytes/1/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2023-04-03 14:18:48.035 -0400>,<ells>,<nmr50pri.chem.columbia.edu>,<go4>,<TopSpin 3.5.6>,
+      <created by zg
+	started at 2023-04-03 14:15:49.262 -0400,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       C9 55 EE 94 C8 46 F4 CF EC 27 EF D9 14 8E 1C 16
+       data hash MD5: 64K
+       AF B6 7C 0A 17 FE 26 4B 77 9D 72 36 1F 24 5C 53>)
+(   2,<2023-04-03 14:28:38.375 -0400>,<ells>,<nmr50pri.chem.columbia.edu>,<proc1d>,<TopSpin 3.5.6>,
+      <Start of raw data processing
+       efp LB = 0.1 FT_mod = 6 PKNL = 1 PHC0 = -62.18667 PHC1 = -31.80303 SI = 64K 
+       data hash MD5: 64K
+       FC D3 79 F2 BA CD 99 5A E5 25 5B BF 4F F3 35 D0>)
+(   3,<2023-04-03 14:30:01.105 -0400>,<ells>,<nmr50pri.chem.columbia.edu>,<audit>,<TopSpin 3.5.6>,
+      <user comment:
+       TITLE=1H NMR
+       LiPF6 in EC/DMC
+       aged 1 month, 60C
+       4/3/2023TITLE_END
+       data hash MD5: 64K
+       FC D3 79 F2 BA CD 99 5A E5 25 5B BF 4F F3 35 D0>)
+##END=
+
+$$ hash MD5
+$$ 47 C5 A7 86 06 C2 80 70 03 D5 2C 43 D6 5C 70 23

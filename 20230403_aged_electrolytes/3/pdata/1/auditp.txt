@@ -1,0 +1,27 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 6
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= ells
+$$ /400SL/data/ells/nmr/20230403_aged_electrolytes/3/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2023-04-03 14:33:39.519 -0400>,<ells>,<nmr50pri.chem.columbia.edu>,<go4>,<TopSpin 3.5.6>,
+      <created by zg
+	started at 2023-04-03 14:26:59.245 -0400,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       C9 55 EE 94 C8 46 F4 CF EC 27 EF D9 14 8E 1C 16
+       data hash MD5: 256K
+       B3 59 DC CF 92 85 E4 3F 12 BC E8 F0 71 DE BD 18>)
+(   2,<2023-04-03 14:33:41.196 -0400>,<ells>,<nmr50pri.chem.columbia.edu>,<proc1d>,<TopSpin 3.5.6>,
+      <Start of raw data processing
+       efp LB = 20 FT_mod = 6 PKNL = 1 PHC0 = 55.16 PHC1 = 0 SI = 128K 
+       data hash MD5: 128K
+       6A A5 48 DD 3B 46 D7 D9 AF D0 24 BB 2B A0 8E 51>)
+(   3,<2023-04-03 14:33:48.824 -0400>,<ells>,<nmr50pri.chem.columbia.edu>,<proc1d>,<TopSpin 3.5.6>,
+      <pk fgphup PHC0 = 7.6 PHC1 = 0 
+       data hash MD5: 128K
+       3E B3 97 85 0A B1 F0 3F BB 97 72 96 98 6D A0 2F>)
+##END=
+
+$$ hash MD5
+$$ 70 38 BB CC E0 FE 9B 11 ED 94 FF 34 44 52 33 BC

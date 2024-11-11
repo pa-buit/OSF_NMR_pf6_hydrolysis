@@ -1,6 +1,7 @@
 The NMR datasets retain the names used in Topspin, which are categorized by experiment date (YYYYMMDD) and/or sample (PJBXXX). Given that these designations may be obscure to the reader, this READ_ME serves as a guide to translate these folder designations and connect them to data and figures in our paper. 
 We have chosen not to change the folder names in order to allow interested readers to download the NMR folders and directly use the python script "pf6_hydrolysis.py" to analyze data as we do in our paper.
 
+"20230423_aged_electrolytes" contains experiments used in Figure S3
 "20230526_hydrolysis" contains miscellaneous experiments run before October 2024. Note that although the folder date is May 2023, this refers only to the date the project started, and is not an upper limit on timestamps for experiments in this folder. This folder contains 1H-coupled 31P experiments run on a 1M LiPF6 in EC:PC + 1.5v% sample after multiple months (PJB006, see below) which is used in Figure 3. 
 "20230711_19f31p_hetcor" contains various iterations of 19F-31P HMQC experiments which were setup up and run on PJB006 (see below). The final 19F-31P HMQC is used in Figure 3.
 "20240306_LiPF6_hydrolysis" contains NMR spectra for a 1M LiPF6 in EC:PC + 200ppm H2O sample created in December 2023 and analyzed in March 2024. Data from this sample is used in Figure S15

@@ -1,0 +1,11 @@
+##TITLE= Parameter file, TopSpin 3.5 pl 6
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= ells
+$$ 2023-04-03 14:54:04.719 -0400  ells@nmr50pri.chem.columbia.edu
+$$ /400SL/data/ells/nmr/20230403_aged_electrolytes/4/pdata/1/assocs
+$$ process /opt/topspin3.5pl6/prog/mod/dataserver
+##$MULTDISP= </400SL/data/ells/nmr/20221110_TEP_operando_1H/1/pdata/999150>
+##END=
